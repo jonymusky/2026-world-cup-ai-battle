@@ -1,4 +1,5 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server';
+import Link from 'next/link';
 import { getModelsWithPredictions, getRankings } from '@/lib/data/loader';
 import { createModelLookup, getMedalEmoji } from '@/lib/utils/leaderboard';
 
@@ -56,9 +57,10 @@ export default async function LeaderboardPage({ params }: Props): Promise<React.
 				{rankings.slice(0, 3).map((ranking, index) => {
 					const model = getModelInfo(ranking.modelId);
 					return (
-						<div
+						<Link
 							key={ranking.modelId}
-							className={`card-hover rounded-2xl border p-6 ${getTopThreeCardStyle(index)}`}
+							href={`/${locale}/predictions/${ranking.modelId}`}
+							className={`card-hover block rounded-2xl border p-6 ${getTopThreeCardStyle(index)}`}
 						>
 							<div className="mb-4 text-center text-4xl">{getMedalEmoji(index)}</div>
 							<div className="text-center">
@@ -85,7 +87,10 @@ export default async function LeaderboardPage({ params }: Props): Promise<React.
 									<div className="text-xs text-foreground/50">{t('exactScores')}</div>
 								</div>
 							</div>
-						</div>
+							<div className="mt-4 text-center text-xs text-primary">
+								{t('viewPredictions')}
+							</div>
+						</Link>
 					);
 				})}
 			</div>
@@ -125,27 +130,27 @@ export default async function LeaderboardPage({ params }: Props): Promise<React.
 								return (
 									<tr
 										key={ranking.modelId}
-										className="card-hover border-b border-card-border last:border-0"
+										className="card-hover cursor-pointer border-b border-card-border last:border-0"
 									>
 										<td className="px-6 py-4">
-											<div className="flex items-center gap-2">
+											<Link href={`/${locale}/predictions/${ranking.modelId}`} className="flex items-center gap-2">
 												<span className="text-lg">{getMedalEmoji(index)}</span>
 												<span className="font-mono text-foreground/70">{index + 1}</span>
-											</div>
+											</Link>
 										</td>
 										<td className="px-6 py-4">
-											<div className="flex items-center gap-3">
+											<Link href={`/${locale}/predictions/${ranking.modelId}`} className="flex items-center gap-3">
 												<div
 													className="h-3 w-3 rounded-full"
 													style={{ backgroundColor: model?.color || '#888' }}
 												/>
 												<div>
-													<div className="font-semibold">
+													<div className="font-semibold hover:text-primary">
 														{model?.name || ranking.modelId}
 													</div>
 													<div className="text-sm text-foreground/50">{model?.provider}</div>
 												</div>
-											</div>
+											</Link>
 										</td>
 										<td className="px-6 py-4 text-right">
 											<span className="gradient-text text-xl font-bold">

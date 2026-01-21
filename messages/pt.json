@@ -26,7 +26,8 @@
 		"accuracy": "Precisao",
 		"predictions": "Previsoes",
 		"exactScores": "Resultados Exatos",
-		"correctWinners": "Vencedores Corretos"
+		"correctWinners": "Vencedores Corretos",
+		"viewPredictions": "Clique para ver previsoes"
 	},
 	"predictions": {
 		"title": "Previsoes",
@@ -37,7 +38,12 @@
 		"backToModels": "Voltar para todos os modelos",
 		"noPredictions": "Sem previsoes disponiveis",
 		"noPredictionsDesc": "Este modelo ainda nao fez previsoes",
-		"notFound": "Modelo nao encontrado"
+		"notFound": "Modelo nao encontrado",
+		"byTeam": "Por Equipe",
+		"selectTeam": "Selecionar equipe",
+		"teamPredictions": "Previsoes de {team}",
+		"allModels": "Todos os Modelos",
+		"backToPredictions": "Voltar para previsoes"
 	},
 	"matches": {
 		"title": "Jogos",

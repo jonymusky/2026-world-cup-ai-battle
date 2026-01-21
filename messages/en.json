@@ -26,7 +26,8 @@
 		"accuracy": "Accuracy",
 		"predictions": "Predictions",
 		"exactScores": "Exact Scores",
-		"correctWinners": "Correct Winners"
+		"correctWinners": "Correct Winners",
+		"viewPredictions": "Click to view predictions"
 	},
 	"predictions": {
 		"title": "Predictions",

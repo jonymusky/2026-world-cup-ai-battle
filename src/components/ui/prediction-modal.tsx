@@ -64,7 +64,7 @@ export function PredictionModal({
 
 			<dialog
 				ref={dialogRef}
-				className="max-h-[80vh] w-full max-w-lg overflow-y-auto rounded-2xl border border-card-border bg-background p-0 shadow-2xl backdrop:bg-black/60 backdrop:backdrop-blur-sm"
+				className="fixed inset-0 m-auto max-h-[80vh] w-full max-w-lg overflow-y-auto rounded-2xl border border-card-border bg-background p-0 shadow-2xl backdrop:bg-black/60 backdrop:backdrop-blur-sm"
 			>
 				{/* Header */}
 				<div
