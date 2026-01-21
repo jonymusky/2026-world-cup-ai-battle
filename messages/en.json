@@ -1,0 +1,75 @@
+{
+	"metadata": {
+		"title": "2026 World Cup AI Battle",
+		"description": "Watch AI models compete to predict the 2026 FIFA World Cup results"
+	},
+	"nav": {
+		"home": "Home",
+		"leaderboard": "Leaderboard",
+		"predictions": "Predictions",
+		"matches": "Matches",
+		"about": "About"
+	},
+	"home": {
+		"title": "2026 World Cup AI Battle",
+		"subtitle": "The ultimate showdown between AI models predicting the World Cup",
+		"cta": "View Leaderboard",
+		"featuredMatch": "Featured Match",
+		"topModels": "Top AI Models"
+	},
+	"leaderboard": {
+		"title": "AI Leaderboard",
+		"description": "See which AI model is leading the prediction race",
+		"rank": "Rank",
+		"model": "Model",
+		"points": "Points",
+		"accuracy": "Accuracy",
+		"predictions": "Predictions",
+		"exactScores": "Exact Scores",
+		"correctWinners": "Correct Winners"
+	},
+	"predictions": {
+		"title": "Predictions",
+		"description": "View predictions from all AI models",
+		"byModel": "Predictions by {model}",
+		"viewAll": "View All",
+		"noData": "No predictions yet",
+		"backToModels": "Back to all models",
+		"noPredictions": "No predictions available",
+		"noPredictionsDesc": "This model hasn't made any predictions yet",
+		"notFound": "Model not found",
+		"byTeam": "By Team",
+		"selectTeam": "Select a team",
+		"teamPredictions": "{team} Predictions",
+		"allModels": "All Models",
+		"backToPredictions": "Back to predictions"
+	},
+	"matches": {
+		"title": "Matches",
+		"description": "All World Cup 2026 matches and predictions",
+		"groupStage": "Group Stage",
+		"roundOf32": "Round of 32",
+		"roundOf16": "Round of 16",
+		"quarterFinals": "Quarter Finals",
+		"semiFinals": "Semi Finals",
+		"final": "Final",
+		"vs": "vs",
+		"kickoff": "Kickoff",
+		"venue": "Venue",
+		"prediction": "Prediction",
+		"result": "Result"
+	},
+	"scoring": {
+		"exactScore": "Exact Score",
+		"correctWinner": "Correct Winner",
+		"goalDifference": "Goal Difference",
+		"bonus": "Bonus"
+	},
+	"common": {
+		"loading": "Loading...",
+		"error": "Something went wrong",
+		"retry": "Try again",
+		"viewDetails": "View Details",
+		"backToHome": "Back to Home"
+	}
+}

@@ -1,0 +1,494 @@
+[
+	{
+		"id": "mex",
+		"name": "Mexico",
+		"code": "MEX",
+		"flag": "/flags/mex.svg",
+		"group": "A",
+		"confederation": "CONCACAF",
+		"ranking": 15,
+		"coordinates": { "lat": 19.4326, "lng": -99.1332 }
+	},
+	{
+		"id": "rsa",
+		"name": "South Africa",
+		"code": "RSA",
+		"flag": "/flags/rsa.svg",
+		"group": "A",
+		"confederation": "CAF",
+		"ranking": 59,
+		"coordinates": { "lat": -25.7479, "lng": 28.2293 }
+	},
+	{
+		"id": "kor",
+		"name": "Korea Republic",
+		"code": "KOR",
+		"flag": "/flags/kor.svg",
+		"group": "A",
+		"confederation": "AFC",
+		"ranking": 22,
+		"coordinates": { "lat": 37.5665, "lng": 126.978 }
+	},
+	{
+		"id": "playoff-d",
+		"name": "Winner Play-off D",
+		"code": "TBD",
+		"flag": "/flags/tbd.svg",
+		"group": "A",
+		"confederation": "UEFA",
+		"ranking": 99,
+		"coordinates": { "lat": 50.0, "lng": 10.0 },
+		"isPlayoff": true,
+		"playoffTeams": ["CZE", "DEN", "IRL", "MKD"]
+	},
+	{
+		"id": "can",
+		"name": "Canada",
+		"code": "CAN",
+		"flag": "/flags/can.svg",
+		"group": "B",
+		"confederation": "CONCACAF",
+		"ranking": 48,
+		"coordinates": { "lat": 45.4215, "lng": -75.6972 }
+	},
+	{
+		"id": "playoff-a",
+		"name": "Winner Play-off A",
+		"code": "TBD",
+		"flag": "/flags/tbd.svg",
+		"group": "B",
+		"confederation": "UEFA",
+		"ranking": 99,
+		"coordinates": { "lat": 45.0, "lng": 10.0 },
+		"isPlayoff": true,
+		"playoffTeams": ["BIH", "ITA", "NIR", "WAL"]
+	},
+	{
+		"id": "qat",
+		"name": "Qatar",
+		"code": "QAT",
+		"flag": "/flags/qat.svg",
+		"group": "B",
+		"confederation": "AFC",
+		"ranking": 35,
+		"coordinates": { "lat": 25.2854, "lng": 51.531 }
+	},
+	{
+		"id": "sui",
+		"name": "Switzerland",
+		"code": "SUI",
+		"flag": "/flags/sui.svg",
+		"group": "B",
+		"confederation": "UEFA",
+		"ranking": 19,
+		"coordinates": { "lat": 46.9481, "lng": 7.4474 }
+	},
+	{
+		"id": "bra",
+		"name": "Brazil",
+		"code": "BRA",
+		"flag": "/flags/bra.svg",
+		"group": "C",
+		"confederation": "CONMEBOL",
+		"ranking": 5,
+		"coordinates": { "lat": -15.7975, "lng": -47.8919 }
+	},
+	{
+		"id": "mar",
+		"name": "Morocco",
+		"code": "MAR",
+		"flag": "/flags/mar.svg",
+		"group": "C",
+		"confederation": "CAF",
+		"ranking": 14,
+		"coordinates": { "lat": 33.9716, "lng": -6.8498 }
+	},
+	{
+		"id": "hai",
+		"name": "Haiti",
+		"code": "HAI",
+		"flag": "/flags/hai.svg",
+		"group": "C",
+		"confederation": "CONCACAF",
+		"ranking": 87,
+		"coordinates": { "lat": 18.5944, "lng": -72.3074 }
+	},
+	{
+		"id": "sco",
+		"name": "Scotland",
+		"code": "SCO",
+		"flag": "/flags/sco.svg",
+		"group": "C",
+		"confederation": "UEFA",
+		"ranking": 39,
+		"coordinates": { "lat": 55.9533, "lng": -3.1883 }
+	},
+	{
+		"id": "usa",
+		"name": "United States",
+		"code": "USA",
+		"flag": "/flags/usa.svg",
+		"group": "D",
+		"confederation": "CONCACAF",
+		"ranking": 11,
+		"coordinates": { "lat": 38.9072, "lng": -77.0369 }
+	},
+	{
+		"id": "par",
+		"name": "Paraguay",
+		"code": "PAR",
+		"flag": "/flags/par.svg",
+		"group": "D",
+		"confederation": "CONMEBOL",
+		"ranking": 52,
+		"coordinates": { "lat": -25.2637, "lng": -57.5759 }
+	},
+	{
+		"id": "aus",
+		"name": "Australia",
+		"code": "AUS",
+		"flag": "/flags/aus.svg",
+		"group": "D",
+		"confederation": "AFC",
+		"ranking": 24,
+		"coordinates": { "lat": -35.2809, "lng": 149.13 }
+	},
+	{
+		"id": "playoff-c",
+		"name": "Winner Play-off C",
+		"code": "TBD",
+		"flag": "/flags/tbd.svg",
+		"group": "D",
+		"confederation": "UEFA",
+		"ranking": 99,
+		"coordinates": { "lat": 45.0, "lng": 20.0 },
+		"isPlayoff": true,
+		"playoffTeams": ["KOS", "ROU", "SVK", "TUR"]
+	},
+	{
+		"id": "ger",
+		"name": "Germany",
+		"code": "GER",
+		"flag": "/flags/ger.svg",
+		"group": "E",
+		"confederation": "UEFA",
+		"ranking": 3,
+		"coordinates": { "lat": 52.52, "lng": 13.405 }
+	},
+	{
+		"id": "cuw",
+		"name": "Curacao",
+		"code": "CUW",
+		"flag": "/flags/cuw.svg",
+		"group": "E",
+		"confederation": "CONCACAF",
+		"ranking": 83,
+		"coordinates": { "lat": 12.1696, "lng": -68.99 }
+	},
+	{
+		"id": "civ",
+		"name": "Cote d'Ivoire",
+		"code": "CIV",
+		"flag": "/flags/civ.svg",
+		"group": "E",
+		"confederation": "CAF",
+		"ranking": 38,
+		"coordinates": { "lat": 5.3097, "lng": -4.0127 }
+	},
+	{
+		"id": "ecu",
+		"name": "Ecuador",
+		"code": "ECU",
+		"flag": "/flags/ecu.svg",
+		"group": "E",
+		"confederation": "CONMEBOL",
+		"ranking": 28,
+		"coordinates": { "lat": -0.1807, "lng": -78.4678 }
+	},
+	{
+		"id": "ned",
+		"name": "Netherlands",
+		"code": "NED",
+		"flag": "/flags/ned.svg",
+		"group": "F",
+		"confederation": "UEFA",
+		"ranking": 7,
+		"coordinates": { "lat": 52.3676, "lng": 4.9041 }
+	},
+	{
+		"id": "jpn",
+		"name": "Japan",
+		"code": "JPN",
+		"flag": "/flags/jpn.svg",
+		"group": "F",
+		"confederation": "AFC",
+		"ranking": 17,
+		"coordinates": { "lat": 35.6762, "lng": 139.6503 }
+	},
+	{
+		"id": "playoff-b",
+		"name": "Winner Play-off B",
+		"code": "TBD",
+		"flag": "/flags/tbd.svg",
+		"group": "F",
+		"confederation": "UEFA",
+		"ranking": 99,
+		"coordinates": { "lat": 52.0, "lng": 20.0 },
+		"isPlayoff": true,
+		"playoffTeams": ["ALB", "POL", "SWE", "UKR"]
+	},
+	{
+		"id": "tun",
+		"name": "Tunisia",
+		"code": "TUN",
+		"flag": "/flags/tun.svg",
+		"group": "F",
+		"confederation": "CAF",
+		"ranking": 40,
+		"coordinates": { "lat": 36.8065, "lng": 10.1815 }
+	},
+	{
+		"id": "bel",
+		"name": "Belgium",
+		"code": "BEL",
+		"flag": "/flags/bel.svg",
+		"group": "G",
+		"confederation": "UEFA",
+		"ranking": 4,
+		"coordinates": { "lat": 50.8503, "lng": 4.3517 }
+	},
+	{
+		"id": "egy",
+		"name": "Egypt",
+		"code": "EGY",
+		"flag": "/flags/egy.svg",
+		"group": "G",
+		"confederation": "CAF",
+		"ranking": 33,
+		"coordinates": { "lat": 30.0444, "lng": 31.2357 }
+	},
+	{
+		"id": "irn",
+		"name": "Iran",
+		"code": "IRN",
+		"flag": "/flags/irn.svg",
+		"group": "G",
+		"confederation": "AFC",
+		"ranking": 21,
+		"coordinates": { "lat": 35.6892, "lng": 51.389 }
+	},
+	{
+		"id": "nzl",
+		"name": "New Zealand",
+		"code": "NZL",
+		"flag": "/flags/nzl.svg",
+		"group": "G",
+		"confederation": "OFC",
+		"ranking": 93,
+		"coordinates": { "lat": -41.2866, "lng": 174.7756 }
+	},
+	{
+		"id": "esp",
+		"name": "Spain",
+		"code": "ESP",
+		"flag": "/flags/esp.svg",
+		"group": "H",
+		"confederation": "UEFA",
+		"ranking": 2,
+		"coordinates": { "lat": 40.4168, "lng": -3.7038 }
+	},
+	{
+		"id": "cpv",
+		"name": "Cabo Verde",
+		"code": "CPV",
+		"flag": "/flags/cpv.svg",
+		"group": "H",
+		"confederation": "CAF",
+		"ranking": 63,
+		"coordinates": { "lat": 14.933, "lng": -23.5133 }
+	},
+	{
+		"id": "ksa",
+		"name": "Saudi Arabia",
+		"code": "KSA",
+		"flag": "/flags/ksa.svg",
+		"group": "H",
+		"confederation": "AFC",
+		"ranking": 56,
+		"coordinates": { "lat": 24.7136, "lng": 46.6753 }
+	},
+	{
+		"id": "uru",
+		"name": "Uruguay",
+		"code": "URU",
+		"flag": "/flags/uru.svg",
+		"group": "H",
+		"confederation": "CONMEBOL",
+		"ranking": 9,
+		"coordinates": { "lat": -34.9011, "lng": -56.1645 }
+	},
+	{
+		"id": "fra",
+		"name": "France",
+		"code": "FRA",
+		"flag": "/flags/fra.svg",
+		"group": "I",
+		"confederation": "UEFA",
+		"ranking": 1,
+		"coordinates": { "lat": 48.8566, "lng": 2.3522 }
+	},
+	{
+		"id": "sen",
+		"name": "Senegal",
+		"code": "SEN",
+		"flag": "/flags/sen.svg",
+		"group": "I",
+		"confederation": "CAF",
+		"ranking": 20,
+		"coordinates": { "lat": 14.6928, "lng": -17.4467 }
+	},
+	{
+		"id": "playoff-2",
+		"name": "Winner Play-off 2",
+		"code": "TBD",
+		"flag": "/flags/tbd.svg",
+		"group": "I",
+		"confederation": "Intercontinental",
+		"ranking": 99,
+		"coordinates": { "lat": -10.0, "lng": -60.0 },
+		"isPlayoff": true,
+		"playoffTeams": ["BOL", "IRQ", "SUR"]
+	},
+	{
+		"id": "nor",
+		"name": "Norway",
+		"code": "NOR",
+		"flag": "/flags/nor.svg",
+		"group": "I",
+		"confederation": "UEFA",
+		"ranking": 45,
+		"coordinates": { "lat": 59.9139, "lng": 10.7522 }
+	},
+	{
+		"id": "arg",
+		"name": "Argentina",
+		"code": "ARG",
+		"flag": "/flags/arg.svg",
+		"group": "J",
+		"confederation": "CONMEBOL",
+		"ranking": 1,
+		"coordinates": { "lat": -34.6037, "lng": -58.3816 }
+	},
+	{
+		"id": "alg",
+		"name": "Algeria",
+		"code": "ALG",
+		"flag": "/flags/alg.svg",
+		"group": "J",
+		"confederation": "CAF",
+		"ranking": 37,
+		"coordinates": { "lat": 36.7538, "lng": 3.0588 }
+	},
+	{
+		"id": "aut",
+		"name": "Austria",
+		"code": "AUT",
+		"flag": "/flags/aut.svg",
+		"group": "J",
+		"confederation": "UEFA",
+		"ranking": 23,
+		"coordinates": { "lat": 48.2082, "lng": 16.3738 }
+	},
+	{
+		"id": "jor",
+		"name": "Jordan",
+		"code": "JOR",
+		"flag": "/flags/jor.svg",
+		"group": "J",
+		"confederation": "AFC",
+		"ranking": 68,
+		"coordinates": { "lat": 31.9454, "lng": 35.9284 }
+	},
+	{
+		"id": "por",
+		"name": "Portugal",
+		"code": "POR",
+		"flag": "/flags/por.svg",
+		"group": "K",
+		"confederation": "UEFA",
+		"ranking": 6,
+		"coordinates": { "lat": 38.7223, "lng": -9.1393 }
+	},
+	{
+		"id": "playoff-1",
+		"name": "Winner Play-off 1",
+		"code": "TBD",
+		"flag": "/flags/tbd.svg",
+		"group": "K",
+		"confederation": "Intercontinental",
+		"ranking": 99,
+		"coordinates": { "lat": 10.0, "lng": -70.0 },
+		"isPlayoff": true,
+		"playoffTeams": ["COD", "JAM", "NCA"]
+	},
+	{
+		"id": "uzb",
+		"name": "Uzbekistan",
+		"code": "UZB",
+		"flag": "/flags/uzb.svg",
+		"group": "K",
+		"confederation": "AFC",
+		"ranking": 62,
+		"coordinates": { "lat": 41.2995, "lng": 69.2401 }
+	},
+	{
+		"id": "col",
+		"name": "Colombia",
+		"code": "COL",
+		"flag": "/flags/col.svg",
+		"group": "K",
+		"confederation": "CONMEBOL",
+		"ranking": 10,
+		"coordinates": { "lat": 4.711, "lng": -74.0721 }
+	},
+	{
+		"id": "eng",
+		"name": "England",
+		"code": "ENG",
+		"flag": "/flags/eng.svg",
+		"group": "L",
+		"confederation": "UEFA",
+		"ranking": 8,
+		"coordinates": { "lat": 51.5074, "lng": -0.1278 }
+	},
+	{
+		"id": "cro",
+		"name": "Croatia",
+		"code": "CRO",
+		"flag": "/flags/cro.svg",
+		"group": "L",
+		"confederation": "UEFA",
+		"ranking": 12,
+		"coordinates": { "lat": 45.815, "lng": 15.9819 }
+	},
+	{
+		"id": "gha",
+		"name": "Ghana",
+		"code": "GHA",
+		"flag": "/flags/gha.svg",
+		"group": "L",
+		"confederation": "CAF",
+		"ranking": 60,
+		"coordinates": { "lat": 5.6037, "lng": -0.187 }
+	},
+	{
+		"id": "pan",
+		"name": "Panama",
+		"code": "PAN",
+		"flag": "/flags/pan.svg",
+		"group": "L",
+		"confederation": "CONCACAF",
+		"ranking": 43,
+		"coordinates": { "lat": 8.9824, "lng": -79.5199 }
+	}
+]

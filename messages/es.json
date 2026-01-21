@@ -1,0 +1,75 @@
+{
+	"metadata": {
+		"title": "Batalla de IA del Mundial 2026",
+		"description": "Mira como los modelos de IA compiten prediciendo los resultados del Mundial 2026"
+	},
+	"nav": {
+		"home": "Inicio",
+		"leaderboard": "Clasificacion",
+		"predictions": "Predicciones",
+		"matches": "Partidos",
+		"about": "Acerca de"
+	},
+	"home": {
+		"title": "Batalla de IA del Mundial 2026",
+		"subtitle": "El enfrentamiento definitivo entre modelos de IA prediciendo el Mundial",
+		"cta": "Ver Clasificacion",
+		"featuredMatch": "Partido Destacado",
+		"topModels": "Top Modelos de IA"
+	},
+	"leaderboard": {
+		"title": "Clasificacion de IA",
+		"description": "Mira que modelo de IA lidera la carrera de predicciones",
+		"rank": "Posicion",
+		"model": "Modelo",
+		"points": "Puntos",
+		"accuracy": "Precision",
+		"predictions": "Predicciones",
+		"exactScores": "Resultados Exactos",
+		"correctWinners": "Ganadores Correctos"
+	},
+	"predictions": {
+		"title": "Predicciones",
+		"description": "Ver predicciones de todos los modelos de IA",
+		"byModel": "Predicciones de {model}",
+		"viewAll": "Ver Todas",
+		"noData": "Sin predicciones aun",
+		"backToModels": "Volver a todos los modelos",
+		"noPredictions": "Sin predicciones disponibles",
+		"noPredictionsDesc": "Este modelo aun no ha hecho predicciones",
+		"notFound": "Modelo no encontrado",
+		"byTeam": "Por Equipo",
+		"selectTeam": "Seleccionar equipo",
+		"teamPredictions": "Predicciones de {team}",
+		"allModels": "Todos los Modelos",
+		"backToPredictions": "Volver a predicciones"
+	},
+	"matches": {
+		"title": "Partidos",
+		"description": "Todos los partidos del Mundial 2026 y predicciones",
+		"groupStage": "Fase de Grupos",
+		"roundOf32": "Dieciseisavos de Final",
+		"roundOf16": "Octavos de Final",
+		"quarterFinals": "Cuartos de Final",
+		"semiFinals": "Semifinales",
+		"final": "Final",
+		"vs": "vs",
+		"kickoff": "Inicio",
+		"venue": "Sede",
+		"prediction": "Prediccion",
+		"result": "Resultado"
+	},
+	"scoring": {
+		"exactScore": "Resultado Exacto",
+		"correctWinner": "Ganador Correcto",
+		"goalDifference": "Diferencia de Goles",
+		"bonus": "Bonus"
+	},
+	"common": {
+		"loading": "Cargando...",
+		"error": "Algo salio mal",
+		"retry": "Intentar de nuevo",
+		"viewDetails": "Ver Detalles",
+		"backToHome": "Volver al Inicio"
+	}
+}

@@ -1,0 +1,504 @@
+{
+	"modelId": "gpt-5.2",
+	"predictions": [
+		{
+			"matchId": "A1",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.62,
+			"reasoning": "Mexico have a clear edge in overall squad quality and depth (FIFA rank 15 vs 59) and benefit from a major home advantage at Estadio Azteca, where altitude and crowd support typically raise their pressing intensity and game control. In a group-stage opener, Mexico are likely to manage risk, dominate territory and chances, and limit South Africa’s transition threat, pointing to a controlled win rather than a shootout."
+		},
+		{
+			"matchId": "A2",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.62,
+			"reasoning": "Korea Republic come in as a clear favorite on paper (FIFA rank 22 vs 99) and historically have been more consistent World Cup-level performers, especially in group-stage organization and defensive structure. A UEFA play-off winner can be tactically disciplined, but teams in this ranking range typically struggle to create enough high-quality chances against top-25 opposition. Neutral venue reduces home advantage, yet Korea’s overall squad quality and experience should still translate into control and a relatively comfortable win, likely by a couple of goals."
+		},
+		{
+			"matchId": "B1",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.64,
+			"reasoning": "Canada should have a clear edge at BMO Field, combining home advantage with a substantially higher FIFA ranking (48 vs 99) and typically greater pace/athleticism in transition—often decisive in group openers. A UEFA play-off winner at this ranking level is likely organized defensively but may struggle to create consistent chances away from home against Canada’s physicality and direct attacking threat. Expect Canada to control territory and generate more set-piece and transition opportunities, leading to a relatively controlled win."
+		},
+		{
+			"matchId": "D1",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "USA have the stronger overall profile (higher FIFA ranking, deeper player pool, and home advantage at SoFi Stadium). Paraguay are typically organized defensively and dangerous on set pieces, which makes a tight game likely rather than a blowout. Expect the USA to control more territory and chances, with Paraguay nicking moments in transition or dead balls—leading to a narrow USA win."
+		},
+		{
+			"matchId": "D2",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.64,
+			"reasoning": "Australia enter as a clear favorite on paper (FIFA rank 24 vs 99) and typically have greater tournament experience and physical/transition quality than lower-ranked playoff qualifiers. At a neutral venue, that gap should still translate into territorial control and more chances. A cautious group-stage dynamic suggests Australia manage the game and keep a clean sheet rather than run up the score."
+		},
+		{
+			"matchId": "C1",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.58,
+			"reasoning": "Brazil have the higher baseline quality and depth (ranking 5 vs 14) and typically control group-stage matches through possession and chance creation. Morocco are a strong, well-organized side with recent tournament pedigree and can punish transitions and set pieces, so a clean sheet isn’t guaranteed. Neutral venue slightly reduces Brazil’s edge, but overall talent and attacking variety make Brazil narrow favorites in a competitive game."
+		},
+		{
+			"matchId": "C2",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.62,
+			"reasoning": "Scotland hold a clear quality edge (FIFA rank 39 vs 87), with stronger depth, physicality and tactical structure typical of UEFA sides. In a group-stage setting on a neutral venue, Haiti can be organized and dangerous in transitions, but Scotland should control territory and create the higher-quality chances. A professional, relatively low-to-moderate scoring Scotland win is the most likely outcome."
+		},
+		{
+			"matchId": "B2",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.64,
+			"reasoning": "Switzerland are the stronger side on paper (higher FIFA ranking, deeper squad, and more consistent tournament performance) and typically control games well in group stages with a solid defensive base. Qatar can be organized but have been less convincing against top European opposition, and a neutral venue reduces any home-advantage effect. Expect Switzerland to manage the match and create enough chances to win without conceding."
+		},
+		{
+			"matchId": "E1",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.74,
+			"reasoning": "Germany’s significantly higher FIFA ranking (3 vs 83), deeper squad quality, and long history of strong World Cup group-stage performances make them clear favorites. Curacao are typically well-organized and can be hard to break down early, but over 90 minutes Germany’s chance creation, pressing, and set-piece threat should produce multiple goals. A controlled match with Germany winning comfortably and keeping a clean sheet is the most likely outcome."
+		},
+		{
+			"matchId": "F1",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.58,
+			"reasoning": "Netherlands come in with a clear edge in overall squad depth, physicality, and tournament pedigree, reflected in the higher FIFA ranking (7 vs 17). In a group-stage setting on a neutral U.S. venue, the Dutch are more likely to control territory and generate higher-quality chances, especially from wide areas and set pieces. Japan’s organization, pressing, and transition play should still create opportunities and keep it tight, but Netherlands’ finishing quality and ability to manage game states make a narrow win the most probable outcome."
+		},
+		{
+			"matchId": "E2",
+			"homeScore": 1,
+			"awayScore": 1,
+			"confidence": 0.34,
+			"reasoning": "Ecuador come in slightly stronger on paper (higher FIFA ranking, consistent CONMEBOL qualifying pedigree, generally well-drilled defensive/transition game), but Côte d’Ivoire have comparable athleticism and individual quality and tend to be dangerous in tournament settings. In a neutral-site U.S. group match, the matchup profiles as tight: Ecuador’s structure vs. CIV’s physicality and direct threat. Low-to-moderate scoring is likely, with each side having enough quality to find a goal but neither clearly dominant—most probable outcome a draw."
+		},
+		{
+			"matchId": "F2",
+			"homeScore": 0,
+			"awayScore": 1,
+			"confidence": 0.44,
+			"reasoning": "Tunisia come in with a clear edge in FIFA ranking (40 vs 99) and have a track record of being tough to break down in World Cup group matches, often keeping games tight and low-scoring. A UEFA play-off qualifier can be well-organized, but with the opponent still TBD and likely less proven at the top level, Tunisia’s structure, experience, and ability to manage game states make them slight favorites in a cautious opener. Expect few chances and a narrow Tunisia win."
+		},
+		{
+			"matchId": "H1",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.74,
+			"reasoning": "Spain (FIFA #2) should control possession and territory with superior squad depth, ball progression, and chance creation, especially in a group-stage setting against a much lower-ranked Cabo Verde (#63). Cabo Verde can be organized and dangerous in transitions, but Spain’s structure and press typically limit low-block counter threats over 90 minutes. Expect Spain to create a steady volume of chances and win comfortably, likely keeping a clean sheet."
+		},
+		{
+			"matchId": "G1",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.62,
+			"reasoning": "Belgium’s higher FIFA ranking (4 vs 33), deeper squad quality, and stronger recent tournament pedigree make them clear favorites in a neutral-site group match. Egypt are typically organized and dangerous in transition, but can struggle to create sustained chances against elite midfields and center-back pairings. Expect Belgium to control possession and generate more high-quality chances, with Egypt threatening sporadically but limited in open-play output."
+		},
+		{
+			"matchId": "H2",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.68,
+			"reasoning": "Uruguay enter as a clear favorite (FIFA rank 9 vs 56) with a deeper pool of top-level players and a long track record of strong World Cup group-stage performances. Saudi Arabia can be organized and dangerous in transitions, but against elite opposition they often struggle to sustain pressure and limit high-quality chances for 90 minutes. In a neutral venue, Uruguay’s defensive solidity and superior chance creation should translate into a controlled win, most likely by a two-goal margin."
+		},
+		{
+			"matchId": "G2",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.64,
+			"reasoning": "Iran are the stronger side on paper (FIFA rank 21 vs 93) and typically bring a well-drilled, defensively solid approach that translates well to group-stage tournament football. New Zealand often compete well physically and are organized, but against higher-ranked opposition they can struggle to create consistent chances. On a neutral venue, Iran’s edge in overall quality, experience against stronger opposition in AFC/World Cup qualifying, and ability to convert set-pieces/counterattacks makes a controlled Iran win most likely. Predicted: Iran 2–0 New Zealand."
+		},
+		{
+			"matchId": "I1",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "France come in as the top-ranked side with deeper squad quality and more consistent tournament performance, so they’re favored to control large spells and create higher-volume chances. Senegal are a strong CAF contender with athleticism, pace in transition and set-piece threat, making them capable of scoring and keeping it competitive, especially in a group-stage setting. Overall edge to France, but not a runaway: France 2–1 Senegal."
+		},
+		{
+			"matchId": "I2",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.62,
+			"reasoning": "Norway hold a clear edge in baseline quality and consistency (FIFA rank 45 vs 99) and typically bring stronger squad depth and tactical structure than an intercontinental play-off qualifier. In a World Cup group setting at a neutral venue, that gap usually translates into control of chances and territory. The play-off winner could be organized and hard to break down early, but Norway’s attacking talent and set-piece threat make a 2–0 type result the most likely."
+		},
+		{
+			"matchId": "J1",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.68,
+			"reasoning": "Argentina come in as the clear favorite on overall squad quality and depth, reflected in the No. 1 FIFA ranking and a long track record of handling group-stage matches efficiently. Algeria are competitive and well-organized, but against elite opposition they typically create fewer high-quality chances and can struggle to sustain pressure for 90 minutes. On a neutral venue in Kansas City, Argentina’s control in midfield and superior attacking options should translate into a comfortable win, likely with a clean sheet if they manage transitions well."
+		},
+		{
+			"matchId": "J2",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.62,
+			"reasoning": "Austria’s higher FIFA ranking (23 vs 68) and typically stronger squad depth/tactical structure from UEFA competition make them clear favorites in a neutral-site group match. Jordan can be organized defensively and compete physically, but they’re less likely to create sustained chances against Austria’s press and midfield control. Expect Austria to control territory and generate more high-quality chances, with Jordan threatening mainly on transitions/set pieces—pointing to a likely Austrian win to nil."
+		},
+		{
+			"matchId": "K1",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Portugal enter as a top-tier side (FIFA rank 6) with consistently strong tournament and qualifying performance, superior squad depth, and a clear talent edge across all lines. The intercontinental Play-off winner (rank ~99) is likely to be organized and defensive but typically faces a major step up in pace, pressing resistance, and chance quality at World Cup level. In a group-stage setting Portugal should control territory and create enough high-quality chances to win comfortably, with a clean sheet plausible given the mismatch."
+		},
+		{
+			"matchId": "L1",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "England edge it based on a slightly stronger overall squad profile and marginally higher FIFA ranking, plus a track record of navigating group-stage matches efficiently in recent tournaments. Croatia remain highly competitive with strong midfield control and tournament experience, so this projects as tight and low-to-moderate scoring, but England’s attacking depth and set-piece threat give them the narrow advantage."
+		},
+		{
+			"matchId": "L2",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.52,
+			"reasoning": "Panama come in with the stronger FIFA ranking (43 vs 60) and, in recent tournament cycles, have generally been the more consistent side in competitive CONCACAF play. Ghana carry pace and individual talent that can create chances, but their results have tended to be more volatile. On neutral soil in Toronto, that points to a tight game where Ghana can score, yet Panama’s organization and set-piece threat give them a narrow edge."
+		},
+		{
+			"matchId": "K2",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.63,
+			"reasoning": "Colombia come in with a large quality edge (FIFA #10 vs #62) and a deeper pool of top-level players, which typically translates into better chance creation and game control in World Cup group matches. Uzbekistan are well-organized and can be difficult to break down, but against elite opposition they often struggle to sustain attacking threat. At altitude in Mexico City the tempo may dip, favoring a more controlled game rather than a goal-fest—pointing to a professional Colombia win with a clean sheet."
+		},
+		{
+			"matchId": "A3",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "Mexico have a modest edge in FIFA ranking (15 vs 22) and a significant home advantage at Estadio Azteca (altitude, crowd, familiarity), which historically boosts their World Cup group-stage performance. Korea Republic are typically well-organized and dangerous in transition, so they’re capable of scoring, but Mexico’s overall squad depth and home conditions slightly favor a narrow Mexico win."
+		},
+		{
+			"matchId": "A4",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "South Africa hold a clear FIFA ranking edge (59 vs 99) and typically bring strong athleticism, pace in transition, and tournament experience relative to most lower-ranked UEFA play-off winners. A European side from a play-off can still be tactically organized and dangerous on set pieces, so a tight game is likely, but South Africa’s overall quality and ability to create chances in open play should give them the advantage. Predicted: South Africa 2–1 Winner Play-off D."
+		},
+		{
+			"matchId": "B3",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "Canada should benefit significantly from home conditions in Toronto (travel, climate, crowd, pitch familiarity) and typically plays with higher tempo and intensity at home. While Qatar’s FIFA ranking is slightly better and they can be well-organized in a mid/low block with quick transitions, they’ve tended to struggle away from home and against physically assertive sides. In a tight group match, Canada’s pressing and direct attacking should create more high-quality chances, with Qatar still capable of nicking a goal on a transition or set piece. Predicted: Canada 2–1 Qatar."
+		},
+		{
+			"matchId": "B4",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.62,
+			"reasoning": "Switzerland (FIFA 19) have a clear quality and depth advantage over a likely lower-tier UEFA play-off qualifier (FIFA ~99). In recent tournament cycles, Switzerland have been consistently hard to break down and effective in structured games, especially in group-stage settings, while play-off qualifiers typically struggle to create chances against top-20 opposition. On a neutral venue, Switzerland’s organization, midfield control, and set-piece threat point to a controlled win with a clean sheet rather than a high-scoring match."
+		},
+		{
+			"matchId": "C3",
+			"homeScore": 4,
+			"awayScore": 0,
+			"confidence": 0.74,
+			"reasoning": "Brazil’s much higher FIFA ranking (5 vs 87), deeper squad quality, and long history of strong World Cup group-stage performances make them heavy favorites. Haiti are likely to defend deep and struggle to sustain possession against Brazil’s pressing and technical superiority. Over 90 minutes, Brazil should create a high volume of chances and win comfortably, with a clean sheet likely given the mismatch in attacking depth."
+		},
+		{
+			"matchId": "C4",
+			"homeScore": 1,
+			"awayScore": 0,
+			"confidence": 0.56,
+			"reasoning": "Morocco come in with a clear edge in overall squad quality and recent tournament pedigree, reflected in a much higher FIFA ranking (14 vs 39). Their defensive structure and pace in transition typically translate well to tight World Cup group games on neutral ground. Scotland are organized and competitive, but can struggle to create high-quality chances against compact, athletic sides. Expect a low-scoring match decided by one moment—Morocco to edge it 1-0."
+		},
+		{
+			"matchId": "D3",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "USA have a clear FIFA-ranking edge (11 vs 24) and a meaningful home-advantage at SoFi Stadium, which typically lifts intensity and pressing efficiency in group matches. Australia are well-organized and physical, with strong transitional threat and set-piece danger, so they’re likely to create chances and could score. Overall, the USA’s deeper attacking options and home momentum make them slight favorites in a close, competitive game."
+		},
+		{
+			"matchId": "D4",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.54,
+			"reasoning": "Paraguay have the stronger baseline: a higher FIFA ranking (52 vs 99), deeper experience against elite opposition in CONMEBOL qualifying, and a typically organized, physical style that translates well in tight World Cup group matches. The UEFA play-off winner could be tactically sound and dangerous in transitions, but on paper they’re likely a lower-tier European side. Neutral venue reduces any home edge, so a narrow Paraguay win with both teams scoring is the most plausible outcome."
+		},
+		{
+			"matchId": "E3",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.64,
+			"reasoning": "Germany’s higher FIFA ranking (3 vs 38), deeper squad quality, and strong tournament track record make them clear favorites in a group-stage setting. Cote d’Ivoire can be physically strong and dangerous in transitions, but Germany typically controls possession and chance volume against lower-ranked opponents. Expect Germany to create enough chances to win comfortably, with a clean sheet plausible if they manage counterattacks well."
+		},
+		{
+			"matchId": "E4",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.7,
+			"reasoning": "Ecuador (FIFA 28) have a clear quality edge over Curacao (FIFA 83) in depth, athleticism, and experience against stronger opposition, typical of CONMEBOL sides in tournament play. In a group-stage setting Ecuador are likely to manage the game, create more high-quality chances, and concede few, while Curacao’s best route is a compact defensive approach and set pieces. A controlled Ecuador win without a huge scoreline is the most likely outcome."
+		},
+		{
+			"matchId": "F3",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.66,
+			"reasoning": "Netherlands are a top-tier UEFA side (FIFA rank ~7) with consistent World Cup/Euro knockout pedigree, strong depth, and typically high chance creation against low blocks. The Play-off B winner (rank ~99) is likely to be a lower-tier UEFA qualifier whose primary path to competitiveness is defensive organization; however, the quality gap in individual talent, transition threat, and set-piece execution heavily favors the Dutch. In a group-stage setting on neutral ground, expect Netherlands to control possession, generate sustained pressure, and eventually break through—most plausibly a comfortable multi-goal win with a decent clean-sheet probability."
+		},
+		{
+			"matchId": "F4",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "Japan come in as the higher-ranked side (17 vs 40) and typically perform well in World Cup group matches with a structured press, quick wide combinations, and strong organization. Tunisia are usually compact and difficult to break down, but can struggle to create sustained chances against disciplined teams. In a neutral-venue setting (Monterrey), Japan’s edge in ball progression and chance creation should tell over 90 minutes, though Tunisia’s set-piece threat and defensive resilience make a one-goal margin likely."
+		},
+		{
+			"matchId": "G3",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.64,
+			"reasoning": "Belgium’s higher FIFA ranking (4 vs 21), deeper squad quality, and strong tournament pedigree make them clear favorites in a group-stage setting. Iran are typically well-organized defensively and can keep games tight, but Belgium’s attacking talent and midfield control should create enough chances to win without conceding. A controlled Belgium performance with a clean sheet is the most likely script."
+		},
+		{
+			"matchId": "G4",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.62,
+			"reasoning": "Egypt should be favored based on a substantially stronger FIFA ranking (33 vs 93), deeper player pool, and more consistent high-level competition in CAF qualifiers compared with New Zealand’s typical OFC schedule. In a World Cup group setting at a neutral venue, Egypt’s organization and attacking quality are likely to produce chances while limiting New Zealand’s output, with NZL still capable of staying competitive for spells. A controlled Egypt win to nil is the most probable outcome."
+		},
+		{
+			"matchId": "H3",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Spain’s markedly higher FIFA ranking (2 vs 56) and deeper squad quality typically translate into clear control of possession and chance creation in group-stage matches against lower-ranked opponents. Historically, Spain are consistent in managing games through ball retention and limiting opposition chances, while Saudi Arabia tend to struggle against elite UEFA sides over 90 minutes despite being capable of isolated upsets. Over a neutral-venue group match, the most likely outcome is a comfortable Spain win with a clean sheet."
+		},
+		{
+			"matchId": "H4",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.72,
+			"reasoning": "Uruguay’s top-10 FIFA ranking, deeper squad quality, and extensive World Cup/CONMEBOL experience make them clear favorites against a mid-ranked Cabo Verde side. In a group-stage setting Uruguay typically control territory and chance volume, while Cabo Verde are more likely to defend compactly and look for transitions. That points to a Uruguay win without a high scoreline—professional game management and defensive solidity leading to a 0–2 result."
+		},
+		{
+			"matchId": "I3",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "France enter as a clear favorite given their top FIFA ranking, consistent World Cup pedigree, and superior depth/quality across all lines. A Play-off 2 winner with a much lower ranking is likely to be organized defensively but struggle to sustain pressure and create chances against France’s midfield control and attacking talent. In a group-stage setting France should manage the game, generate a high volume of chances, and keep a clean sheet if they avoid transitional mistakes."
+		},
+		{
+			"matchId": "I4",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "Senegal’s higher FIFA ranking and generally stronger recent tournament pedigree (more consistent World Cup/AFCON-level performance) give them a slight edge in a neutral-venue group match. Norway have clear upset potential—especially through direct attacking quality and set-piece threat—but have been less consistent historically on the biggest tournament stage. Expect a competitive game where Senegal’s athleticism, midfield control and defensive solidity tilt it narrowly, with Norway still likely to create and convert at least one chance."
+		},
+		{
+			"matchId": "J3",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.62,
+			"reasoning": "Argentina enter as the stronger side on paper (FIFA #1) with a deeper pool of elite attackers and proven tournament pedigree, especially in controlling big-match moments and managing group-stage games. Austria (FIFA #23) are well-organized and can press effectively, but they typically struggle to create sustained high-quality chances against top-tier defenses. On neutral soil in Kansas City, Argentina’s technical quality and chance creation should tell over 90 minutes, with Austria keeping it competitive but likely limited in clear looks. Predicted: Argentina 2–0 Austria."
+		},
+		{
+			"matchId": "J4",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "Algeria come in with a clear edge in FIFA ranking (37 vs 68) and a deeper pool of top-league experience, which typically translates into more chance creation and game control in neutral-venue World Cup group matches. Jordan are well-organized and capable of staying competitive—often limiting big scorelines—and can threaten on transitions and set pieces, so a goal for them is plausible. Overall, Algeria’s higher attacking quality and tournament pedigree make them slight favorites in a relatively tight game."
+		},
+		{
+			"matchId": "K3",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.73,
+			"reasoning": "Portugal’s significantly stronger squad depth and tournament pedigree (top-10 FIFA ranking, consistent World Cup/Euro knockout presence) make them clear favorites over Uzbekistan (lower ranking, less experience vs elite UEFA opposition). In a group-stage setting Portugal should control possession, create higher-quality chances, and limit Uzbekistan’s transition opportunities. Uzbekistan can be organized defensively, but over 90 minutes Portugal’s attacking quality and set-piece threat are likely to produce multiple goals while keeping a clean sheet."
+		},
+		{
+			"matchId": "K4",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.7,
+			"reasoning": "Colombia (FIFA #10) have a large quality and depth edge over a likely lower-ranked intercontinental play-off winner (around FIFA #99). In a group-stage setting at altitude in Mexico City, the tempo can be lower and underdogs sometimes stay compact, but Colombia’s technical level, pressing resistance, and attacking options should still produce clear chances. Expect Colombia to control possession, limit transitions, and win without needing a high scoreline."
+		},
+		{
+			"matchId": "L3",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.68,
+			"reasoning": "England enter as clear favorites on paper (FIFA ranking 8 vs 60) and typically carry more depth and chance creation in tournament group games. In a neutral-venue setting, Ghana’s athleticism and transitions can create moments, but England’s defensive structure and set-piece threat usually translate into control and a low concession rate. Expect England to win without needing to chase, likely by a two-goal margin."
+		},
+		{
+			"matchId": "L4",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.64,
+			"reasoning": "Croatia’s higher FIFA ranking and deeper tournament pedigree (typically strong midfield control, match management, and chance creation) make them clear favorites against Panama. Panama can be organized and physical, but they’ve generally struggled to sustain possession and generate high-quality chances versus top UEFA sides. In a group-stage setting on neutral ground, Croatia are likely to win without needing to chase a high scoreline."
+		},
+		{
+			"matchId": "A5",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.67,
+			"reasoning": "Mexico should be favored: a large FIFA ranking gap (15 vs 99) typically correlates with a clear quality difference, and playing at Estadio Azteca adds a major home/altitude advantage. In group-stage settings Mexico are generally solid defensively and pragmatic, while a low-ranked UEFA playoff qualifier is less likely to impose itself away at altitude. Expect Mexico to control territory and create enough chances to win without needing a high-scoring game."
+		},
+		{
+			"matchId": "A6",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.62,
+			"reasoning": "Korea Republic have a clear edge in FIFA ranking (22 vs 59) and have generally been the more consistent World Cup/qualifying performer in recent cycles. Their defensive structure and transition play tend to travel well in tournament football, while South Africa often struggle to create high-quality chances against organized opponents. On neutral ground in Guadalajara, Korea’s greater depth and higher baseline level make them favorites; South Africa can keep it competitive for spells, but Korea are likelier to convert one or two decisive moments."
+		},
+		{
+			"matchId": "B5",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.56,
+			"reasoning": "Switzerland’s higher FIFA ranking (19 vs 48) and consistent tournament track record point to them controlling long spells, with a strong defensive structure and efficient chance creation typical of UEFA sides. Canada’s home advantage at BMO Field and pace in transition make them likely to score or at least generate high-danger moments, but over 90 minutes Switzerland are the more balanced team. Expect a competitive group match where Canada threaten on counters, yet Switzerland’s quality in midfield/box presence edges it."
+		},
+		{
+			"matchId": "B6",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.62,
+			"reasoning": "Qatar come in with a much stronger baseline (FIFA rank ~35 vs ~99) and more established recent World Cup-level experience, while a UEFA play-off winner at this ranking tier typically relies on structure and low-risk football but struggles to create enough chances against organized opponents. Neutral venue conditions reduce any home-edge effects. Expect Qatar to control more of the game and convert one chance per half, with the play-off side competitive but limited in attack."
+		},
+		{
+			"matchId": "C5",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.64,
+			"reasoning": "Brazil come in with a clear edge in overall talent, depth, and tournament pedigree, reflected in a much higher FIFA ranking (5 vs 39) and historically stronger World Cup group-stage consistency. Scotland are typically organised and competitive against top sides, but they tend to create fewer high-quality chances and can struggle to sustain pressure against elite attackers over 90 minutes. In a group match at a neutral venue, Brazil’s superior attacking quality and ability to control territory should translate into a controlled win, most likely by a couple of goals without needing a shootout."
+		},
+		{
+			"matchId": "C6",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Morocco are a significantly stronger side on paper (FIFA rank 14 vs 87) and have recent World Cup pedigree, with a well-organized defense and efficient transition play. Haiti can be competitive and athletic but tend to struggle against top-20 opponents, especially in controlling midfield and limiting high-quality chances. In a group-stage setting, Morocco are likely to manage the game and win without needing to open up excessively, pointing to a controlled 2–0 type result."
+		},
+		{
+			"matchId": "D5",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.62,
+			"reasoning": "USA should be clear favorites at SoFi Stadium given the large FIFA ranking gap (11 vs 99), home advantage, and generally stronger squad depth/athleticism typical of top-15 sides. A UEFA playoff winner can be organized defensively, but the U.S. are likely to create enough chances to win without conceding if they manage transitions and set pieces well."
+		},
+		{
+			"matchId": "D6",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.56,
+			"reasoning": "Australia come in with a clear FIFA ranking edge (24 vs 52) and, historically, tend to be more consistent at converting chances against similarly matched opposition. Paraguay are typically organized and hard to break down, which points to a tight, low-to-moderate scoring game rather than a blowout. On a neutral venue (Vancouver), Australia’s athleticism and pressing/transition threat give them a slight advantage, but Paraguay’s set-piece danger keeps them competitive—hence a narrow 2-1 Australia win."
+		},
+		{
+			"matchId": "E5",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.62,
+			"reasoning": "Germany enter as a clear favorite on paper (FIFA rank 3 vs 28) with deeper squad quality, more tournament pedigree, and typically stronger chance creation/control in group-stage matches. Ecuador are well-organized and athletic (CONMEBOL resilience, dangerous in transitions and set pieces), but they’re more likely to struggle sustaining possession and generating high-volume chances against elite opposition. In a neutral-venue setting, Germany’s attacking depth and defensive structure point to a controlled win, most plausibly by a two-goal margin."
+		},
+		{
+			"matchId": "F5",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.66,
+			"reasoning": "Netherlands have a clear edge in overall squad quality, depth, and tournament pedigree (FIFA rank 7 vs 40). In group-stage settings they typically control possession and generate higher-quality chances, while Tunisia tend to be organized defensively but struggle to create consistently against elite European sides. On a neutral venue, the most likely script is Netherlands steadily breaking Tunisia down and limiting transitions, leading to a controlled win to nil."
+		},
+		{
+			"matchId": "F6",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.66,
+			"reasoning": "Japan (FIFA #17) should control most phases against a much lower-ranked Play-off B winner (#99). Japan’s recent World Cup-level performances and tactical cohesion typically translate well in group matches versus weaker opposition, especially in chance creation and defensive structure. The European play-off side could be organized and physical, but Japan’s tempo, pressing, and technical quality make a clean sheet and a two-goal margin the likeliest outcome."
+		},
+		{
+			"matchId": "G5",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.74,
+			"reasoning": "Belgium’s significantly higher FIFA ranking and deeper squad quality (UEFA elite level) make them strong favorites against New Zealand (OFC, much lower ranking). In a group-stage setting on neutral ground, Belgium should control possession, create more high-quality chances, and limit NZL’s opportunities—suggesting a comfortable win, likely by multiple goals, with a good chance of a clean sheet."
+		},
+		{
+			"matchId": "G6",
+			"homeScore": 1,
+			"awayScore": 1,
+			"confidence": 0.42,
+			"reasoning": "Iran come in with the higher FIFA ranking (21 vs 33) and a recent history of being a solid, well-drilled World Cup qualifier from AFC, but Egypt have comparable top-end talent and tend to be defensively resilient in tournament-style matches. With both sides typically organized without dominating possession and this being a group-stage game on neutral soil, a low-scoring, tightly contested draw is the most likely outcome."
+		},
+		{
+			"matchId": "H5",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "Spain come in as the higher-ranked side (2 vs 9) and typically control matches through possession and chance volume, which often translates well in group-stage settings on neutral ground. Uruguay are elite in tournament football—compact defensively, strong in transitions and set pieces—and have the attacking quality to score against top sides. Overall, Spain’s greater ability to dictate tempo and create sustained pressure gives them a narrow edge, but Uruguay’s threat keeps it close."
+		},
+		{
+			"matchId": "H6",
+			"homeScore": 1,
+			"awayScore": 1,
+			"confidence": 0.34,
+			"reasoning": "This looks like a tight, low-scoring group match between two sides with fairly similar FIFA rankings (Saudi Arabia 56, Cabo Verde 63). Saudi Arabia typically bring strong tactical structure and game management in tournament settings, while Cabo Verde have enough athleticism and attacking moments to threaten in transition. On neutral ground in Miami, neither side has a major contextual edge, so a cautious game with few clear chances is likely, making a 1-1 draw the most balanced call."
+		},
+		{
+			"matchId": "I5",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "France enter as a top-ranked, tournament-proven side with superior depth, control in midfield, and attacking variety, which typically translates to consistent chance creation and defensive stability in group matches. Norway have top-end individual threats but less overall balance and big-tournament consistency, and they’re more likely to spend long spells without the ball against elite opposition. Expect France to manage the game, limit high-quality chances, and win by a controlled margin."
+		},
+		{
+			"matchId": "I6",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.62,
+			"reasoning": "Senegal are the established side here: a top-20 FIFA-ranked team with recent World Cup/AFCON pedigree, athleticism, and depth across Europe-based players. A Play-off winner ranked around 99 is likely to be organized and competitive but typically lacks Senegal’s overall quality, pace, and physical edge, especially over 90 minutes. In a group-stage setting Senegal should control territory and create more high-quality chances; a clean sheet is plausible if they manage transitions well. Likeliest outcome: Senegal win comfortably without a blowout."
+		},
+		{
+			"matchId": "J5",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.78,
+			"reasoning": "Argentina (FIFA #1) have a large quality and depth advantage over Jordan (FIFA #68), typically dominating possession and chance creation against lower-ranked sides in group-stage settings. Jordan are generally organized defensively but tend to struggle to sustain threat and resist elite pressing for 90 minutes. On a neutral venue, Argentina’s superior attacking options and control in midfield make a comfortable win with a clean sheet the most likely outcome."
+		},
+		{
+			"matchId": "J6",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.56,
+			"reasoning": "Austria come in with the higher FIFA ranking (23 vs 37) and, historically, UEFA sides tend to be more consistent in World Cup group matches. Algeria are capable of upsetting stronger teams and should create chances, but Austria’s overall structure, depth, and ball progression give them a slight edge in a neutral-venue setting. Expect a competitive game with Austria edging it by a goal."
+		},
+		{
+			"matchId": "K5",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.56,
+			"reasoning": "Portugal edge this on overall squad depth and tournament know-how (typically strong in structured group matches), with a slight advantage implied by the higher FIFA ranking. Colombia are a high-intensity CONMEBOL side capable of disrupting build-up and creating transition chances, so a clean sheet is unlikely. On neutral ground in Houston, expect a tight game decided by moments—Portugal’s attacking quality and set-piece threat give them a narrow 2–1 win."
+		},
+		{
+			"matchId": "K6",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.55,
+			"reasoning": "Uzbekistan have the clearer baseline quality edge (FIFA rank 62 vs 99) and, in recent cycles, have generally been more cohesive and tactically settled than most intercontinental play-off level sides. A group-stage game at Estadio Azteca adds altitude/pace-management variability that can keep it tight and raise upset chances, but Uzbekistan’s stronger midfield structure and ability to control phases should translate into more consistent chance creation over 90 minutes. Expect a competitive match where the play-off winner can score, but Uzbekistan edge it by a goal."
+		},
+		{
+			"matchId": "L5",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.7,
+			"reasoning": "England should control possession and chance quality given the large gap in FIFA ranking (8 vs 43), deeper squad depth, and consistent tournament-level experience. Panama are typically organized and physical but can struggle against elite sides that press well and create from wide areas and set pieces. In a group-stage setting England are likely to manage the game professionally and win comfortably, with Panama’s main route being transitions that England’s back line should largely contain."
+		},
+		{
+			"matchId": "L6",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.64,
+			"reasoning": "Croatia enter as the clearly higher-rated side (FIFA #12 vs #60) with a long track record of strong World Cup tournament management, midfield control, and defensive structure. In a group-stage setting on neutral ground, Croatia’s ability to dictate tempo and limit transitions typically translates into low-to-moderate scoring games, while Ghana’s upside is athleticism and counterattacks but with less consistency against top European opponents. Expect Croatia to control possession, create the better chances, and keep a clean sheet if they avoid turnovers in midfield."
+		}
+	],
+	"tournamentPredictions": {},
+	"generatedAt": "2026-01-20T17:25:24.208Z"
+}

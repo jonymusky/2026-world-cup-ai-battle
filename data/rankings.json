@@ -1,0 +1,142 @@
+[
+	{
+		"modelId": "gpt-5.2",
+		"totalPoints": 0,
+		"stats": {
+			"totalPredictions": 0,
+			"exactScores": 0,
+			"correctWinners": 0,
+			"correctGoalDifference": 0,
+			"accuracy": 0
+		},
+		"breakdown": {
+			"groupStage": 0,
+			"roundOf32": 0,
+			"roundOf16": 0,
+			"quarterFinals": 0,
+			"semiFinals": 0,
+			"final": 0,
+			"bonuses": 0
+		}
+	},
+	{
+		"modelId": "claude-opus-4.5",
+		"totalPoints": 0,
+		"stats": {
+			"totalPredictions": 0,
+			"exactScores": 0,
+			"correctWinners": 0,
+			"correctGoalDifference": 0,
+			"accuracy": 0
+		},
+		"breakdown": {
+			"groupStage": 0,
+			"roundOf32": 0,
+			"roundOf16": 0,
+			"quarterFinals": 0,
+			"semiFinals": 0,
+			"final": 0,
+			"bonuses": 0
+		}
+	},
+	{
+		"modelId": "claude-sonnet-4.5",
+		"totalPoints": 0,
+		"stats": {
+			"totalPredictions": 0,
+			"exactScores": 0,
+			"correctWinners": 0,
+			"correctGoalDifference": 0,
+			"accuracy": 0
+		},
+		"breakdown": {
+			"groupStage": 0,
+			"roundOf32": 0,
+			"roundOf16": 0,
+			"quarterFinals": 0,
+			"semiFinals": 0,
+			"final": 0,
+			"bonuses": 0
+		}
+	},
+	{
+		"modelId": "gemini-2.5-flash",
+		"totalPoints": 0,
+		"stats": {
+			"totalPredictions": 0,
+			"exactScores": 0,
+			"correctWinners": 0,
+			"correctGoalDifference": 0,
+			"accuracy": 0
+		},
+		"breakdown": {
+			"groupStage": 0,
+			"roundOf32": 0,
+			"roundOf16": 0,
+			"quarterFinals": 0,
+			"semiFinals": 0,
+			"final": 0,
+			"bonuses": 0
+		}
+	},
+	{
+		"modelId": "grok-3",
+		"totalPoints": 0,
+		"stats": {
+			"totalPredictions": 0,
+			"exactScores": 0,
+			"correctWinners": 0,
+			"correctGoalDifference": 0,
+			"accuracy": 0
+		},
+		"breakdown": {
+			"groupStage": 0,
+			"roundOf32": 0,
+			"roundOf16": 0,
+			"quarterFinals": 0,
+			"semiFinals": 0,
+			"final": 0,
+			"bonuses": 0
+		}
+	},
+	{
+		"modelId": "llama-4-405b",
+		"totalPoints": 0,
+		"stats": {
+			"totalPredictions": 0,
+			"exactScores": 0,
+			"correctWinners": 0,
+			"correctGoalDifference": 0,
+			"accuracy": 0
+		},
+		"breakdown": {
+			"groupStage": 0,
+			"roundOf32": 0,
+			"roundOf16": 0,
+			"quarterFinals": 0,
+			"semiFinals": 0,
+			"final": 0,
+			"bonuses": 0
+		}
+	},
+	{
+		"modelId": "deepseek-v3.2",
+		"totalPoints": 0,
+		"stats": {
+			"totalPredictions": 0,
+			"exactScores": 0,
+			"correctWinners": 0,
+			"correctGoalDifference": 0,
+			"accuracy": 0
+		},
+		"breakdown": {
+			"groupStage": 0,
+			"roundOf32": 0,
+			"roundOf16": 0,
+			"quarterFinals": 0,
+			"semiFinals": 0,
+			"final": 0,
+			"bonuses": 0
+		}
+	}
+]

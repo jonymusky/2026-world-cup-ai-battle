@@ -1,0 +1,511 @@
+{
+	"modelId": "claude-sonnet-4.5",
+	"predictions": [
+		{
+			"matchId": "A1",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.75,
+			"reasoning": "Mexico has significant advantages: 44-place FIFA ranking gap (15 vs 59), home venue at the iconic Estadio Azteca (2,240m altitude) where they historically dominate, passionate home crowd, and superior World Cup pedigree. South Africa has struggled in recent World Cup campaigns. Mexico's experience in CONCACAF competition and technical quality should overcome South Africa's physicality. Opening group match caution may limit goals, but Mexico should control and win comfortably."
+		},
+		{
+			"matchId": "A2",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.65,
+			"reasoning": "Korea Republic has a significant FIFA ranking advantage (22 vs 99) and consistent World Cup experience. As an established Asian powerhouse, they should control the match against a lower-ranked UEFA playoff qualifier. However, the TBD opponent's UEFA confederation typically produces competitive teams even from playoffs, and Korea's mixed record in opening group matches suggests this won't be a walkover. The neutral venue in Guadalajara and group stage pressure could keep it tight. Expecting Korea to edge it with superior quality and tournament experience, but the playoff winner will compete hard making it a close 2-1 victory for Korea Republic."
+		},
+		{
+			"matchId": "B1",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.68,
+			"reasoning": "Canada has significant advantages: home venue (BMO Field, Toronto), much better FIFA ranking (48 vs 99), and automatic qualification as co-host. The Play-off A winner faces travel disadvantages and weaker ranking. However, UEFA teams typically perform well in World Cups regardless of ranking, and tournament football is unpredictable. Canada's 2022 World Cup experience (0 points, eliminated in group stage) shows vulnerability despite potential. Home support and ranking gap favor Canada for a narrow opening match victory, but the UEFA opponent will be competitive."
+		},
+		{
+			"matchId": "D1",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "USA has significant advantages: home soil at SoFi Stadium in Los Angeles, much higher FIFA ranking (11 vs 52), and hosting nation momentum. The USMNT will have a young, talented squad by 2026 with players from top European leagues. Paraguay, while historically competitive in CONMEBOL, has struggled in recent years. The 41-position FIFA ranking gap is substantial. Home advantage in a World Cup opener is crucial - expect USA to control possession and capitalize on set pieces. Paraguay will likely defend deep but struggle to contain USA's attacking talent. A 2-0 victory reflects USA's superiority while acknowledging Paraguay's defensive organization typical of CONMEBOL teams."
+		},
+		{
+			"matchId": "D2",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Australia holds a significant advantage with a FIFA ranking of 24 versus 99 for the playoff winner. As an experienced World Cup participant with strong showings in recent tournaments, Australia should control this match. The Socceroos have quality players in European leagues and solid tournament experience. The playoff winner (likely a smaller UEFA nation) will face challenges adapting to the tournament pressure and long travel to Vancouver. Australia's defensive solidity and set-piece threat should secure a comfortable win in their opening group match, though they may lack cutting edge against a defensive opponent."
+		},
+		{
+			"matchId": "C1",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.68,
+			"reasoning": "Brazil, despite being ranked 5th vs Morocco's 14th, should edge this group stage match. Brazil's superior attacking talent and World Cup pedigree give them the advantage. However, Morocco's recent strong performances (2022 WC semi-finalists) and solid defensive organization mean they won't be easily beaten. The neutral venue at MetLife Stadium and group stage context suggest a competitive match. Brazil's quality should prevail, but Morocco will make it difficult and likely find a goal. A 2-1 scoreline reflects Brazil's edge while respecting Morocco's capabilities."
+		},
+		{
+			"matchId": "C2",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.72,
+			"reasoning": "Scotland holds a significant advantage with a FIFA ranking of 39 vs Haiti's 87. As a UEFA confederation team, Scotland has stronger competitive experience and squad depth. Haiti, while representing CONCACAF, faces a considerable gap in international pedigree. Scotland's quality in midfield and defense should control the match. Expected result: Scotland 2-0 Haiti, with Scotland likely to manage the game professionally without overextending."
+		},
+		{
+			"matchId": "B2",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.75,
+			"reasoning": "Switzerland holds a significant advantage with a FIFA ranking of 19 vs Qatar's 35. As a UEFA confederation team, Switzerland has consistently performed well in World Cups and possesses superior technical quality and tournament experience. Qatar, despite hosting the 2022 World Cup, struggled in that tournament (eliminated in group stage with 0 points) and historically has limited success outside Asia. Switzerland's organized defense and efficient attacking play should control this match. Playing in North America (neutral venue) removes any home advantage Qatar might have hoped for. Expected result: comfortable Swiss victory 0-2."
+		},
+		{
+			"matchId": "E1",
+			"homeScore": 5,
+			"awayScore": 0,
+			"confidence": 0.92,
+			"reasoning": "Germany, ranked 3rd globally and a 4-time World Cup winner, faces Curacao (ranked 83rd) in what represents a massive mismatch. Germany's superior quality across all positions, tactical sophistication, and World Cup experience should result in a dominant performance. In group stage matches against significantly weaker opposition, top teams typically score 4-6 goals while maintaining defensive solidity. Curacao, making their hypothetical World Cup debut, would struggle to contain Germany's attacking prowess. This prediction reflects Germany's need to build goal difference in the group stage while respecting that they may ease off slightly after establishing control."
+		},
+		{
+			"matchId": "F1",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.68,
+			"reasoning": "Netherlands ranked 7th globally should have the edge over 17th-ranked Japan in this Group F opener. The Dutch possess superior attacking talent and European pedigree, while Japan is a well-organized, disciplined side capable of causing problems. Expect a competitive match with Netherlands' quality prevailing. The AT&T Stadium's controlled environment in Dallas favors technical play. Historical World Cup meetings show close contests, but Netherlands' deeper squad and recent tournament experience (2022 quarterfinals) gives them advantage. Japan will make it difficult but Netherlands should secure three points in a narrow victory."
+		},
+		{
+			"matchId": "E2",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.65,
+			"reasoning": "Ecuador holds a significant advantage with a FIFA ranking of 28 vs Cote d'Ivoire's 38. CONMEBOL teams historically perform well in World Cups with their competitive qualifying process and technical style. Ecuador has shown strong form in recent tournaments, reaching the 2022 World Cup Round of 16. While Cote d'Ivoire has talented individuals and won AFCON 2024, Ecuador's cohesive team structure, World Cup experience, and superior ranking suggest they'll edge this group stage encounter. The neutral venue in Philadelphia shouldn't significantly impact either side. Expecting a competitive match with Ecuador's quality proving decisive."
+		},
+		{
+			"matchId": "F2",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.62,
+			"reasoning": "Tunisia holds a significant advantage with FIFA ranking 40 vs 99 for the UEFA playoff winner. Tunisia has World Cup experience (2018, 2022) and CAF teams typically perform well in group stages. The UEFA playoff winner (likely a lower-ranked European team) will face challenges adapting to the Monterrey heat and pressure of their first World Cup match. However, European teams often exceed expectations due to tactical discipline. Tunisia's technical quality and tournament experience should prevail in a competitive match, though the UEFA side will make it difficult."
+		},
+		{
+			"matchId": "H1",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.85,
+			"reasoning": "Spain, ranked #2 in the world, faces Cabo Verde (#63) in a significant mismatch. Spain is a football powerhouse with world-class talent across all positions, while Cabo Verde is making a historic World Cup appearance. The 61-position FIFA ranking gap reflects the vast difference in quality, experience, and squad depth. Spain should dominate possession and create numerous chances. While Cabo Verde may defend resolutely, Spain's technical superiority and attacking firepower should prevail comfortably. A 3-0 victory represents a professional performance without overestimating the margin, as opening group matches can sometimes be cautious affairs."
+		},
+		{
+			"matchId": "G1",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Belgium, ranked 4th globally, holds a significant advantage over Egypt (ranked 33rd). Belgium's UEFA pedigree features world-class talent and recent World Cup experience (3rd place 2018, group stage 2022). Egypt, while CAF's strongest, has struggled in recent World Cups. The 29-position FIFA ranking gap, combined with Belgium's superior tactical organization and depth, strongly favors them. However, Egypt's defensive resilience and counter-attacking threat prevent this from being a blowout. A 2-0 scoreline reflects Belgium's quality while acknowledging potential rust in their opening group match and Egypt's ability to stay compact."
+		},
+		{
+			"matchId": "H2",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.72,
+			"reasoning": "Uruguay is heavily favored with a FIFA ranking of 9 vs Saudi Arabia's 56. CONMEBOL teams historically perform well in World Cups, and Uruguay has a strong footballing tradition with quality attacking players. However, Saudi Arabia has shown they can compete against top teams (notably their 2022 win vs Argentina) and will be motivated in the group stage. The neutral venue in Miami and Saudi Arabia's occasional upsets prevent this from being a blowout, but Uruguay's superior quality should see them through with a 2-1 victory."
+		},
+		{
+			"matchId": "G2",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Iran is significantly stronger with FIFA ranking #21 vs New Zealand's #93. Iran has consistent World Cup experience and quality players in European leagues. New Zealand, while improved, lacks the technical quality and depth. Iran's solid defense and counter-attacking style should dominate this group stage opener. The 72-ranking gap is substantial, and Iran typically performs well in their opening matches. Expect a comfortable 2-0 victory for Iran."
+		},
+		{
+			"matchId": "I1",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "France, ranked #1 in FIFA rankings, are heavy favorites against #20 Senegal. France boasts world-class talent across all positions with depth in attack (Mbappé, Thuram, Dembélé) and a solid defensive structure. While Senegal are African champions with quality players like Sadio Mané, the 19-position ranking gap is significant. France's superior squad depth, tactical versatility, and experience in major tournaments give them a clear advantage. Senegal will be organized and competitive, but France's quality should prevail in a group stage opener. A 2-0 victory reflects France's dominance while acknowledging Senegal's defensive capabilities and that group stage openers can sometimes be cautious affairs."
+		},
+		{
+			"matchId": "I2",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.65,
+			"reasoning": "Norway holds a significant advantage with a FIFA ranking of 45 versus 99 for the playoff winner. As a UEFA team, Norway typically features higher technical quality and competitive experience. The playoff winner faces the challenge of having just emerged from a grueling qualification path, potentially with less preparation time. Norway's squad, likely featuring players from top European leagues including star striker Erling Haaland, should have superior quality across the pitch. However, playoff teams can be dangerous with momentum and nothing to lose. The neutral venue in Boston slightly reduces any home advantage. Expected a competitive match but Norway's class should prevail in a 2-1 victory."
+		},
+		{
+			"matchId": "J1",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.78,
+			"reasoning": "Argentina, ranked #1 in the world and reigning World Cup champions, face Algeria (ranked #37) in the group stage. Argentina's superior quality across all positions, featuring world-class attackers and a solid defensive structure, gives them a significant advantage. Algeria has talented players but faces a substantial gap in overall squad depth and recent form. As group stage opener, Argentina will be motivated to make a strong statement. The 36-position FIFA ranking gap and Argentina's recent dominance in international football strongly favor a comfortable home victory. Predicted scoreline: Argentina 3-0 Algeria."
+		},
+		{
+			"matchId": "J2",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.75,
+			"reasoning": "Austria holds a significant advantage with a FIFA ranking of 23 vs Jordan's 68. As a UEFA team, Austria has stronger competitive experience and squad depth. Jordan, while improved in recent years, faces a considerable step up in quality. Austria's attacking capabilities and European pedigree should see them control this group stage match. A 2-0 victory reflects Austria's superiority while acknowledging potential defensive organization from Jordan in their World Cup debut scenario."
+		},
+		{
+			"matchId": "K1",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.85,
+			"reasoning": "Portugal (FIFA rank 6) is a clear favorite against an unknown playoff winner (FIFA rank 99). Portugal possesses world-class talent including elite attackers and strong tournament experience. The 93-position ranking gap is massive - Portugal should dominate possession, create numerous chances, and control the match. While World Cup group stages can produce surprises, this mismatch in quality, experience, and depth makes a comfortable Portugal victory highly likely. The TBD opponent will likely defend deep, but Portugal's technical superiority should break them down for a convincing 3-0 win."
+		},
+		{
+			"matchId": "L1",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.65,
+			"reasoning": "England has a slight edge with a better FIFA ranking (8 vs 12) and possesses a younger, more dynamic squad with elite attacking talent. Croatia, while experienced and tactically disciplined, has an aging core. Historical encounters have been tight (2018 WC semifinal, Euro 2020), but England's depth and home-continent advantage in North America favor them. Expect a competitive match with England edging it in a group stage opener where both teams will be cautious but England's quality should prevail."
+		},
+		{
+			"matchId": "L2",
+			"homeScore": 1,
+			"awayScore": 1,
+			"confidence": 0.55,
+			"reasoning": "This Group L match at BMO Field in Toronto features two relatively evenly matched teams. Panama holds a better FIFA ranking (43 vs 60) and benefits from playing in CONCACAF territory (North America), which should provide familiar conditions and potentially more fan support. However, Ghana has a stronger World Cup pedigree, having reached the quarterfinals in 2010 and consistently performed well on the global stage. Ghana's technical ability and African football style could offset Panama's ranking advantage. Panama's best World Cup showing was in 2018 (their debut), where they struggled. Given Panama's home confederation advantage, Ghana's tournament experience, and the competitive nature of opening group matches, a cautious 1-1 draw seems most likely. Both teams will be eager not to lose their opening match, leading to a tactical, balanced encounter."
+		},
+		{
+			"matchId": "K2",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.75,
+			"reasoning": "Colombia holds a significant advantage with FIFA ranking #10 vs #62. As a CONMEBOL powerhouse with experienced World Cup pedigree, Colombia should dominate possession and create quality chances. Uzbekistan, while improving in recent years, lacks major tournament experience. The high altitude of Estadio Azteca (2,240m) may affect both teams, but Colombia's technical quality and South American style should prevail. Colombia's attacking talent should secure a comfortable 2-0 victory in this group stage opener."
+		},
+		{
+			"matchId": "A3",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.68,
+			"reasoning": "Mexico has significant advantages: (1) Playing at iconic Estadio Azteca with passionate home support and altitude advantage (2,240m), (2) Higher FIFA ranking (15 vs 22), (3) Strong World Cup opening match history at home. Korea Republic is a solid team with technical ability and work ethic, but historically struggles in CONCACAF venues, especially at altitude. Mexico's experience at Azteca and home field advantage in a crucial group opener should prove decisive, though Korea will remain competitive and likely score. Expect a tight match with Mexico edging it 2-1."
+		},
+		{
+			"matchId": "A4",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.62,
+			"reasoning": "South Africa has a significant FIFA ranking advantage (59 vs 99), suggesting they are the stronger side. As the identified team playing against a TBD playoff winner, RSA should have tactical preparation advantages. However, UEFA teams (even lower-ranked ones) typically have strong technical quality and tournament experience. The playoff winner will have momentum from qualification. Playing at a neutral venue in Mexico slightly favors neither side, but South Africa's ranking edge and the opponent being a weaker UEFA playoff qualifier suggests a narrow South African victory. Expect a competitive match with 2-1 to South Africa being the most likely outcome."
+		},
+		{
+			"matchId": "B3",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.65,
+			"reasoning": "Canada has significant home advantage at BMO Field in Toronto, which will be crucial in this group stage match. Despite Qatar having a better FIFA ranking (35 vs 48), Canada's recent World Cup experience (2022 Qatar), growing football infrastructure, and passionate home support should give them the edge. Qatar showed vulnerabilities in their 2022 World Cup hosting despite home advantage. Canada's attacking players from European leagues and the electric atmosphere expected in Toronto tip this toward a narrow Canadian victory. However, Qatar's technical quality and better ranking keeps this competitive, hence the moderate confidence level."
+		},
+		{
+			"matchId": "B4",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.72,
+			"reasoning": "Switzerland holds a significant advantage with FIFA ranking #19 vs #99. The Swiss team has proven World Cup pedigree, consistently reaching knockout stages in recent tournaments. While the Play-off A winner's identity is unknown, the 80-point FIFA ranking gap suggests a clear quality difference. Switzerland's organized defensive structure and experienced squad should control this Group B opener. However, World Cup group stage matches can be tight as teams settle in, so expecting a competitive but ultimately comfortable Swiss victory."
+		},
+		{
+			"matchId": "C3",
+			"homeScore": 4,
+			"awayScore": 0,
+			"confidence": 0.92,
+			"reasoning": "Brazil, ranked 5th globally and a 5-time World Cup winner, faces Haiti (ranked 87th) in what should be a heavily one-sided group stage match. The 82-position FIFA ranking gap represents a massive difference in quality, experience, and resources. Brazil's attacking prowess with world-class players across all positions should dominate Haiti's defense. Haiti, making a rare World Cup appearance, will likely adopt a defensive approach but struggle to contain Brazil's technical superiority. Historical precedent shows top-5 nations typically score 3-5 goals against teams ranked outside the top 80 in group stages. Brazil will be motivated to secure goal difference advantage early in the tournament. A 4-0 scoreline reflects Brazil's dominance while accounting for potential conservative play once the match is secured."
+		},
+		{
+			"matchId": "C4",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Morocco enters as strong favorites with a FIFA ranking of 14 vs Scotland's 39. Morocco's impressive 2022 World Cup semi-final run demonstrates their elite tournament capability. They possess a well-organized defense, dynamic midfield (Ziyech, Amrabat), and attacking threats. Scotland, while competitive in UEFA qualifiers, has historically struggled at major tournaments. Morocco's African style suits World Cup play better, and their recent form against European opposition has been excellent. Playing at a neutral venue in Boston eliminates home advantage. Expect Morocco to control possession and capitalize on 2-3 quality chances while keeping Scotland at bay defensively."
+		},
+		{
+			"matchId": "D3",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.68,
+			"reasoning": "USA has significant advantages: home soil at SoFi Stadium, higher FIFA ranking (#11 vs #24), and strong recent development with young talent. As hosts, they'll have massive crowd support and momentum. Australia is a resilient team with World Cup experience, but historically struggles against top CONCACAF teams in competitive matches. The 13-ranking gap is substantial. USA's attacking talent (Pulisic, Reyna, Balogun) should edge Australia's solid but limited offensive options. Expect a competitive match with USA's home advantage proving decisive in a tight 2-1 victory."
+		},
+		{
+			"matchId": "D4",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.68,
+			"reasoning": "Paraguay holds a significant advantage with a FIFA ranking of 52 vs 99 for the playoff winner. CONMEBOL teams typically have strong technical quality and World Cup experience. Paraguay's historical World Cup pedigree (8 appearances, including quarterfinal runs) should prove decisive against a lower-ranked UEFA playoff qualifier. The neutral venue in Vancouver slightly reduces home advantage factors. Paraguay's solid defensive organization combined with their competitive South American qualifying experience should see them control this group stage opener comfortably. Expected scoreline: Paraguay 2-0."
+		},
+		{
+			"matchId": "E3",
+			"homeScore": 3,
+			"awayScore": 1,
+			"confidence": 0.75,
+			"reasoning": "Germany, ranked 3rd globally, holds a significant advantage over Cote d'Ivoire (ranked 38th). Germany is a traditional World Cup powerhouse with 4 titles and consistently performs well in group stages. Their superior squad depth, tactical discipline, and experience at the highest level should see them control this match. While Cote d'Ivoire has talented individual players and won AFCON 2024, the 35-place FIFA ranking gap is substantial. Germany typically starts World Cups strong and should secure a comfortable victory, though Cote d'Ivoire's attacking threat could yield a consolation goal. The neutral venue in Houston shouldn't significantly impact the result."
+		},
+		{
+			"matchId": "E4",
+			"homeScore": 0,
+			"awayScore": 3,
+			"confidence": 0.82,
+			"reasoning": "Ecuador holds a significant advantage with a FIFA ranking of 28 vs Curacao's 83. As a CONMEBOL team, Ecuador has proven World Cup experience and higher quality players. Curacao, while improved in recent years, faces a major step up in competition at the World Cup level. Ecuador's technical ability, tactical organization, and tournament experience should prove decisive. The 55-position ranking gap is substantial. Expected scoreline: Curacao 0-3 Ecuador, though Ecuador could score more if they maintain intensity throughout."
+		},
+		{
+			"matchId": "F3",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.78,
+			"reasoning": "Netherlands, ranked 7th globally, faces a significant mismatch against the Play-off B winner (ranked 99th). The Dutch possess superior quality across all positions with world-class players in top European leagues. Despite both being UEFA teams, the 92-rank gap indicates a major difference in talent and experience. Netherlands typically dominates weaker opposition in group stages, though they may rotate players. The neutral venue in Dallas shouldn't significantly impact the outcome. Expect a comfortable Dutch victory with 3+ goals, though they may ease off after establishing control."
+		},
+		{
+			"matchId": "F4",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Japan holds a significant advantage with their FIFA ranking (#17 vs #40). Japan has consistently performed well in recent World Cups, reaching knockout stages and competing strongly against top teams. They possess technical quality, tactical discipline, and experience in major tournaments. Tunisia, while competitive in African football, has struggled to advance from group stages historically. Japan's superior squad depth, playing style, and recent international form suggest they should control this match. The neutral venue in Monterrey slightly favors neither team. Expected result: comfortable Japan victory 2-0."
+		},
+		{
+			"matchId": "G3",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Belgium is heavily favored with a FIFA ranking of 4 vs Iran's 21. Belgium's UEFA pedigree, superior technical quality, and attacking talent should dominate against Iran's defensive-minded approach. Iran typically sits deep and counter-attacks but lacks the firepower to trouble elite European defenses. Belgium's experience in major tournaments and individual quality across all positions gives them a clear advantage. A 2-0 victory reflects Belgium controlling possession and breaking down Iran's organized defense, while Iran's disciplined structure prevents a heavier defeat. This is a typical group stage result where the favorite wins comfortably without being spectacular."
+		},
+		{
+			"matchId": "G4",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Egypt holds a significant advantage with a FIFA ranking of 33 vs New Zealand's 93. Egypt has strong African football pedigree with technical players and World Cup experience, while New Zealand from OFC typically struggles against higher-ranked confederations. Egypt's attacking quality through players like Mohamed Salah should prove decisive. New Zealand's defensive organization may limit the margin, but Egypt should control the match and secure a comfortable 2-0 victory in this group stage opener."
+		},
+		{
+			"matchId": "H3",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.85,
+			"reasoning": "Spain, ranked 2nd globally, holds a massive 54-place FIFA ranking advantage over Saudi Arabia (56th). As a UEFA powerhouse with superior technical ability, squad depth, and tactical sophistication, Spain should dominate possession and create numerous chances. While Saudi Arabia famously upset Argentina 2-1 in the 2022 World Cup, such results are rare anomalies. In group stage openers, top European teams typically assert their quality against Asian opponents. Spain's attacking talent and defensive organization should secure a comfortable victory, though they may not overextend in a controlled group stage performance."
+		},
+		{
+			"matchId": "H4",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.78,
+			"reasoning": "Uruguay is heavily favored with a FIFA ranking of 9 vs Cabo Verde's 63. CONMEBOL teams historically perform well in World Cups, and Uruguay has a strong football tradition with quality players. Cabo Verde, while improved in recent years, lacks World Cup experience. The 54-position ranking gap is significant. Uruguay should control the match and secure a comfortable victory in their group stage opener, though Cabo Verde's defensive organization may limit the margin."
+		},
+		{
+			"matchId": "I3",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.85,
+			"reasoning": "France, ranked #1 in FIFA rankings, faces a significant mismatch against an intercontinental playoff winner ranked #99. France possesses world-class talent across all positions, including elite attacking options and a strong defensive structure. The 98-point ranking gap is massive in international football. While playoff winners can be motivated, the quality difference is too substantial. France should control possession, create numerous chances, and win comfortably in the group stage opener. A 3-0 scoreline reflects France's dominance while accounting for potential conservative game management once ahead."
+		},
+		{
+			"matchId": "I4",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.65,
+			"reasoning": "Senegal enters as favorites with a significantly higher FIFA ranking (20 vs 45). As African champions with stars like Sadio Mané and a strong defensive unit, they have proven World Cup pedigree (Round of 16 in 2022). Norway, despite having Erling Haaland, lacks recent major tournament experience and has struggled in qualifications. Senegal's physicality, speed, and tournament experience should give them the edge in a competitive match. The 2-1 scoreline reflects Senegal's superiority while acknowledging Norway's attacking threat through Haaland and Ødegaard."
+		},
+		{
+			"matchId": "J3",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.75,
+			"reasoning": "Argentina, ranked #1 in FIFA rankings and reigning World Cup champions, holds a significant advantage over #23 Austria. As defending champions with world-class talent including Messi (if still playing) and a proven tournament pedigree, Argentina should control this group stage match. Austria is a solid European side but lacks the star power and recent tournament success. The neutral venue in Kansas City slightly reduces home advantage factors. Argentina's superior quality, experience, and motivation as title defenders strongly favor a comfortable victory, though Austria's organized defensive approach may limit the margin."
+		},
+		{
+			"matchId": "J4",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Algeria holds a significant advantage with a FIFA ranking of 37 versus Jordan's 68. Algeria has stronger World Cup pedigree, having reached the Round of 16 in 2014, and possesses more experience at the international level. Jordan, while improving in recent years, has less experience on the world stage. The 31-position ranking gap suggests Algeria should control the match. Playing at a neutral venue in San Francisco removes home advantage. Algeria's technical quality and tournament experience should see them secure a comfortable victory in this Group J opener, though Jordan's defensive organization may limit the margin."
+		},
+		{
+			"matchId": "K3",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.85,
+			"reasoning": "Portugal is a major European football power ranked 6th globally with world-class talent across all positions, while Uzbekistan ranks 62nd and lacks experience at the highest level. The 56-position FIFA ranking gap is substantial. Portugal's superior technical ability, tactical sophistication, and World Cup experience should dominate this group stage match. While Uzbekistan may defend resolutely, Portugal's attacking quality should break through comfortably. A 3-0 victory reflects Portugal controlling the match while managing energy for the tournament ahead."
+		},
+		{
+			"matchId": "K4",
+			"homeScore": 0,
+			"awayScore": 2,
+			"confidence": 0.75,
+			"reasoning": "Colombia holds a significant advantage with a FIFA ranking of 10 versus 99 for the playoff winner. As a strong CONMEBOL side with quality players in Europe's top leagues, Colombia should dominate against a lower-ranked intercontinental playoff qualifier. The 89-position ranking gap is substantial. Playing at altitude in Mexico City (2,240m) may slightly affect both teams, but Colombia's South American experience with high-altitude venues (having played in Bolivia, Ecuador) gives them an edge. The playoff winner will likely be fatigued from their qualifying campaign. Expected result: comfortable Colombia victory, 0-2."
+		},
+		{
+			"matchId": "L3",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "England, ranked 8th globally, holds a significant advantage over Ghana (ranked 60th). England's superior squad depth, tactical organization, and experience in major tournaments should prove decisive. Ghana has shown resilience in past World Cups but faces a considerable quality gap. England's strong defensive structure and attacking talent (Kane, Bellingham, Saka, Foden) should control the match. A 2-0 victory reflects England's ability to dominate possession and convert chances while maintaining defensive solidity in a group stage encounter where they'll aim for a comfortable win without overextending."
+		},
+		{
+			"matchId": "L4",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.78,
+			"reasoning": "Croatia is heavily favored with a FIFA ranking of 12 vs Panama's 43. Croatia consistently performs at the highest level (2018 WC runners-up, 2022 WC bronze medalists) with world-class midfield talent and tactical discipline. Panama, while competitive in CONCACAF, lacks the technical quality and international tournament experience to match Croatia's caliber. The 31-position ranking gap reflects a significant quality difference. Croatia should control possession and create multiple scoring opportunities. Expected comfortable victory for Croatia in their group stage opener."
+		},
+		{
+			"matchId": "A5",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.75,
+			"reasoning": "Mexico has significant advantages: home venue at the iconic Estadio Azteca (2,240m altitude), strong FIFA ranking (#15 vs #99), and historical World Cup experience. The altitude factor heavily favors Mexico, who are accustomed to playing in these conditions. The 84-point FIFA ranking gap is substantial. While the play-off winner from UEFA will be competitive, Mexico's home advantage, superior ranking, and tournament experience should secure a comfortable victory in the opening group stage match."
+		},
+		{
+			"matchId": "A6",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.65,
+			"reasoning": "Korea Republic has a significant FIFA ranking advantage (22 vs 59) and stronger World Cup pedigree, consistently reaching knockout stages. South Korea's technical quality, organization, and experience at the highest level should give them the edge. However, South Africa as African representatives can be competitive and dangerous on set pieces. The neutral venue in Mexico and group stage setting keeps this competitive. Predicting a narrow Korean victory 2-1, with South Africa getting on the scoresheet but Korea's superior quality prevailing."
+		},
+		{
+			"matchId": "B5",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.65,
+			"reasoning": "Switzerland enters as the stronger team with a FIFA ranking of 19 vs Canada's 48. However, Canada has significant home advantage at BMO Field in Toronto, which should energize the hosts. Switzerland has consistent World Cup experience and tactical discipline, while Canada showed improvement qualifying for 2022 but lacks major tournament experience. The Swiss should edge this with superior quality and tournament know-how, but Canada's home support and CONCACAF resilience will keep it competitive. A narrow 2-1 away win for Switzerland is the most likely outcome."
+		},
+		{
+			"matchId": "B6",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.55,
+			"reasoning": "Qatar holds a significant FIFA ranking advantage (35 vs 99) and has recent World Cup experience from hosting 2022. The UEFA playoff winner is likely a lower-tier European team given the ranking. Qatar's Asian Cup success and investment in football infrastructure gives them the edge, though the unknown playoff winner creates some uncertainty. Qatar should win a competitive match, likely 2-1."
+		},
+		{
+			"matchId": "C5",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.78,
+			"reasoning": "Brazil, ranked 5th globally, has a significant advantage over Scotland (ranked 39th). Brazil's World Cup pedigree (5 titles), superior technical quality, and depth make them heavy favorites. Scotland qualified impressively but lacks experience at this level. Brazil's attacking prowess with world-class forwards should dominate. In group stage openers, Brazil typically performs well. The 34-rank difference and confederation strength (CONMEBOL vs UEFA) heavily favor Brazil. Expecting a comfortable Brazilian victory with a clean sheet."
+		},
+		{
+			"matchId": "C6",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.85,
+			"reasoning": "Morocco is heavily favored with a FIFA ranking of 14 vs Haiti's 87 - a 73-position gap. Morocco reached the 2022 World Cup semifinals and has world-class players in top European leagues. Haiti has limited international experience at this level. Morocco's superior technical ability, tactical organization, and tournament experience should result in a comfortable victory. The 3-0 scoreline reflects Morocco's attacking quality while acknowledging they may ease off once the result is secure in the group stage."
+		},
+		{
+			"matchId": "D5",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.75,
+			"reasoning": "USA has significant advantages: home field at SoFi Stadium, much higher FIFA ranking (11 vs 99), and hosting nation momentum. The 88-position ranking gap is substantial. While the opponent is from UEFA (typically strong), a ranking of 99 suggests a weaker European side. USA should dominate possession and create multiple chances. Home crowd support in Los Angeles will be massive. Expect USA to win comfortably 2-0, though they may be cautious in their opening group match."
+		},
+		{
+			"matchId": "D6",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.65,
+			"reasoning": "Australia holds a significant FIFA ranking advantage (24 vs 52) and has shown strong form in recent years with a solid defensive structure and experienced players competing in top European leagues. Paraguay, while traditionally strong in CONMEBOL, has struggled in recent qualification cycles. Australia's technical quality, physicality, and tournament experience should give them the edge in this group stage encounter. The neutral venue in Vancouver slightly favors the more organized Australian side. Expecting a competitive match with Australia securing a narrow victory."
+		},
+		{
+			"matchId": "E5",
+			"homeScore": 3,
+			"awayScore": 1,
+			"confidence": 0.72,
+			"reasoning": "Germany, ranked 3rd globally, holds a significant advantage over 28th-ranked Ecuador. As a traditional powerhouse with deep World Cup pedigree (4 titles), Germany typically performs well in group stages. Ecuador, while competitive in CONMEBOL qualifying, faces a tough challenge against elite European opposition. The neutral venue in Houston slightly favors the higher-quality side. Germany's superior squad depth, tactical organization, and tournament experience should prevail, though Ecuador's fighting spirit and technical ability from South American football should yield at least one goal. Expected outcome: comfortable German victory."
+		},
+		{
+			"matchId": "E6",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.78,
+			"reasoning": "Cote d'Ivoire holds a significant advantage with a FIFA ranking of 38 versus Curacao's 83 (45-position gap). The Ivorians are a traditional African football power with World Cup experience, featuring talented players from top European leagues. Curacao, while competitive in CONCACAF, lacks the same level of international pedigree and squad depth. In World Cup group stage matches, higher-ranked teams typically capitalize on such ranking differentials. Cote d'Ivoire's superior technical ability, physicality, and tournament experience should result in a comfortable victory. Expected scoreline: 3-0 to Cote d'Ivoire."
+		},
+		{
+			"matchId": "F5",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.75,
+			"reasoning": "Netherlands is significantly stronger with FIFA ranking #7 vs Tunisia's #40. As a UEFA powerhouse, Netherlands has superior talent depth, tactical organization, and World Cup experience. Tunisia, while competitive in CAF, typically struggles against top European sides. In group stage matches, Netherlands usually controls possession and creates quality chances. Historical World Cup meetings favor European teams over African opposition at this level. A 2-0 scoreline reflects Netherlands' quality advantage while acknowledging Tunisia's defensive discipline that often keeps games respectable. The neutral venue in Dallas shouldn't significantly impact either team."
+		},
+		{
+			"matchId": "F6",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.72,
+			"reasoning": "Japan is heavily favored with a FIFA ranking of 17 vs 99. Japan has strong World Cup experience, reaching knockout stages in recent tournaments, while the play-off winner (likely a weaker UEFA nation) will be less experienced. Japan's technical quality, organization, and tournament experience should prevail. The neutral venue in Monterrey slightly favors neither side. Expected scoreline: Japan 2-0, reflecting their superiority while accounting for typical group stage caution."
+		},
+		{
+			"matchId": "G5",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.85,
+			"reasoning": "Belgium, ranked 4th globally and a UEFA powerhouse with world-class talent, faces New Zealand (ranked 93rd from OFC). The massive 89-place FIFA ranking gap reflects a significant quality difference. Belgium's technical superiority, depth of talent in top European leagues, and experience at the highest level should dominate against New Zealand's limited international pedigree. In World Cup group stages, top European teams typically secure comfortable victories against OFC opposition. Belgium needs a strong start in Group G and should control possession, create numerous chances, and convert them efficiently. A 3-0 victory reflects Belgium's class advantage while acknowledging that World Cup matches can sometimes be tighter than expected due to defensive organization."
+		},
+		{
+			"matchId": "G6",
+			"homeScore": 1,
+			"awayScore": 1,
+			"confidence": 0.55,
+			"reasoning": "This Group G match is likely to be tightly contested. Iran holds a superior FIFA ranking (21 vs 33) and has consistently performed well in World Cup qualifications, with a solid defensive structure. However, Egypt possesses quality attacking talent and African champions pedigree. Both teams typically adopt cautious approaches in opening group stage matches. Iran's defensive discipline against Egypt's counter-attacking threat suggests a low-scoring draw. The neutral venue in Los Angeles may slightly favor Iran given the Persian diaspora presence, but not decisively. A 1-1 draw reflects both teams' need to avoid defeat in their Group G opener while respecting each other's capabilities."
+		},
+		{
+			"matchId": "H5",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.68,
+			"reasoning": "Spain enters as strong favorites with FIFA ranking #2 vs Uruguay's #9. Spain's possession-based style and technical superiority should dominate, but Uruguay's defensive solidity and CONMEBOL competitiveness make them dangerous opponents. Spain's recent tournament performances and deeper squad quality give them the edge. However, Uruguay rarely loses heavily and will make it competitive. A narrow 2-1 victory for Spain reflects their quality advantage while respecting Uruguay's resilience and counter-attacking threat in what should be an intense group stage encounter."
+		},
+		{
+			"matchId": "H6",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.62,
+			"reasoning": "Saudi Arabia holds a slight edge with better FIFA ranking (56 vs 63) and more World Cup experience. They've shown they can compete at the highest level (famous win vs Argentina in 2022). Cabo Verde is making their World Cup debut and lacks tournament experience at this level. However, Cabo Verde has improved significantly in recent years with a strong defensive organization and could make this competitive. The neutral venue in Miami may slightly favor Cabo Verde due to potential diaspora support. Expecting a tight match with Saudi Arabia's experience and technical quality proving decisive in a narrow 2-1 victory."
+		},
+		{
+			"matchId": "I5",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.82,
+			"reasoning": "France, ranked #1 in FIFA rankings, has a massive quality advantage over Norway (ranked #45). France boasts world-class talent across all positions including Mbappé, and has consistently performed at the highest level in major tournaments (World Cup winners 2018, finalists 2022). Norway, while having improved in recent years, lacks the depth and tournament experience. In a World Cup group stage match at a neutral venue, France's superior quality, tactical sophistication, and big-game experience should result in a comfortable victory. Expecting France to dominate possession and create multiple scoring opportunities while keeping a clean sheet against weaker opposition."
+		},
+		{
+			"matchId": "I6",
+			"homeScore": 2,
+			"awayScore": 0,
+			"confidence": 0.75,
+			"reasoning": "Senegal, ranked 20th in FIFA rankings, is a strong African team with recent success (AFCON 2021 champions, consistent World Cup qualifiers). They face an intercontinental playoff winner ranked 99th, indicating a significant quality gap. Senegal's experienced squad featuring Premier League and European-based players should dominate possession and create chances. The 79-ranking point difference suggests Senegal's clear superiority. Playing in a neutral venue (USA) eliminates home advantage for either side. Expected comfortable win for Senegal with 2-0 scoreline, though tournament pressure in opening group matches can lead to cautious play. The TBD opponent's lower ranking and intercontinental playoff route suggests they'll likely defend deep, limiting the scoreline but unlikely to threaten Senegal's defense."
+		},
+		{
+			"matchId": "J5",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.85,
+			"reasoning": "Argentina, ranked #1 in the world and reigning World Cup champions, faces Jordan (ranked #68). The 67-position gap in FIFA rankings represents a massive quality difference. Argentina boasts world-class talent across all positions and extensive World Cup experience. Jordan, while having improved in recent years, lacks the pedigree and depth to compete at this level. Argentina should dominate possession and create numerous chances. In group stage matches, top teams typically secure comfortable victories against significantly weaker opponents. A 3-0 scoreline reflects Argentina's superiority while accounting for potential conservative play after establishing control."
+		},
+		{
+			"matchId": "J6",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.65,
+			"reasoning": "Austria enters as favorites with a superior FIFA ranking (23 vs 37) and the strength of UEFA competition. Austria has been improving under Ralf Rangnick with a solid tactical system and quality players from top European leagues. Algeria, while historically strong in African football with talented individuals, has been inconsistent recently. The neutral venue in San Francisco slightly negates home advantage. Austria's European pedigree and better recent form in qualifying should give them the edge in this group stage encounter, though Algeria's technical ability and counter-attacking threat keeps this competitive."
+		},
+		{
+			"matchId": "K5",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.65,
+			"reasoning": "Portugal holds a slight edge with their higher FIFA ranking (#6 vs #10) and boasts world-class talent including attacking prowess. However, Colombia's CONMEBOL pedigree makes them formidable opponents - South American teams traditionally perform well in World Cups with their technical skill and tactical discipline. This Group K match should be competitive and closely contested. Portugal's experience in major tournaments and superior ranking gives them a narrow advantage, but Colombia's ability to frustrate European teams means this will likely be a tight, low-scoring affair. A 2-1 victory for Portugal reflects their quality while respecting Colombia's threat. The neutral venue in Houston and group stage context suggests both teams will be cautious but Portugal should edge it."
+		},
+		{
+			"matchId": "K6",
+			"homeScore": 1,
+			"awayScore": 2,
+			"confidence": 0.55,
+			"reasoning": "Uzbekistan holds a significant FIFA ranking advantage (62 vs 99), indicating they are the stronger team on paper. As an AFC representative, they've shown improvement in recent years. The Play-off 1 winner faces uncertainty and likely represents a weaker confederation team. However, the Estadio Azteca's high altitude (2,250m) in Mexico City can be a great equalizer, affecting fitness and potentially favoring the underdog. The play-off winner may also have momentum from qualifying battles. Given Uzbekistan's quality advantage but accounting for venue challenges and World Cup unpredictability, a narrow 2-1 victory for Uzbekistan seems reasonable, though confidence is moderate due to the unknown identity of their opponent."
+		},
+		{
+			"matchId": "L5",
+			"homeScore": 3,
+			"awayScore": 0,
+			"confidence": 0.78,
+			"reasoning": "England holds a significant advantage with FIFA ranking #8 vs #43. Historically, England defeated Panama 6-1 in the 2018 World Cup. England's superior squad depth, technical ability, and UEFA competition experience should dominate against a CONCACAF opponent. In group stage matches, top European teams typically control possession and create multiple scoring opportunities against lower-ranked CONCACAF sides. Panama will likely employ defensive tactics but England's attacking quality should break through multiple times. A comfortable 3-0 victory reflects England managing the game professionally without overextending in group stage."
+		},
+		{
+			"matchId": "L6",
+			"homeScore": 2,
+			"awayScore": 1,
+			"confidence": 0.68,
+			"reasoning": "Croatia, ranked 12th globally, has significant advantages over Ghana (60th). Croatia consistently performs at the highest level, reaching the 2018 World Cup final and 2022 semifinals with a golden generation featuring elite midfielders. Despite aging stars, their tactical discipline and experience in major tournaments gives them the edge. Ghana has World Cup pedigree but faces a major ranking gap. However, African teams can be unpredictable and dangerous, capable of causing upsets. The neutral venue in Toronto may slightly favor Ghana with potential diaspora support. Expecting Croatia to control the match but Ghana to remain competitive and score, making this a 2-1 victory for Croatia in a tight group stage encounter."
+		}
+	],
+	"tournamentPredictions": {},
+	"generatedAt": "2026-01-20T17:42:40.059Z"
+}

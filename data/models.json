@@ -1,0 +1,58 @@
+[
+	{
+		"id": "gpt-5.2",
+		"name": "GPT-5.2",
+		"provider": "openai",
+		"logoDomain": "openai.com",
+		"description": "OpenAI's most advanced multimodal model",
+		"color": "#10A37F"
+	},
+	{
+		"id": "claude-opus-4.5",
+		"name": "Claude Opus 4.5",
+		"provider": "anthropic",
+		"logoDomain": "anthropic.com",
+		"description": "Anthropic's most capable model for complex reasoning",
+		"color": "#D97706"
+	},
+	{
+		"id": "claude-sonnet-4.5",
+		"name": "Claude Sonnet 4.5",
+		"provider": "anthropic",
+		"logoDomain": "anthropic.com",
+		"description": "Anthropic's balanced model for speed and intelligence",
+		"color": "#EA580C"
+	},
+	{
+		"id": "gemini-2.5-flash",
+		"name": "Gemini 2.5 Flash",
+		"provider": "google",
+		"logoDomain": "google.com",
+		"description": "Google's fast and capable model",
+		"color": "#4285F4"
+	},
+	{
+		"id": "grok-3",
+		"name": "Grok 3",
+		"provider": "xai",
+		"logoDomain": "x.ai",
+		"description": "xAI's reasoning model",
+		"color": "#1DA1F2"
+	},
+	{
+		"id": "llama-4-405b",
+		"name": "Llama 4 405B",
+		"provider": "meta",
+		"logoDomain": "meta.com",
+		"description": "Meta's largest open-source model",
+		"color": "#0668E1"
+	},
+	{
+		"id": "deepseek-v3.2",
+		"name": "DeepSeek V3.2",
+		"provider": "deepseek",
+		"logoDomain": "deepseek.com",
+		"description": "DeepSeek's flagship reasoning model",
+		"color": "#7C3AED"
+	}
+]

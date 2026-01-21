@@ -1,0 +1,70 @@
+{
+	"metadata": {
+		"title": "Batalha de IA da Copa do Mundo 2026",
+		"description": "Veja os modelos de IA competindo para prever os resultados da Copa do Mundo 2026"
+	},
+	"nav": {
+		"home": "Inicio",
+		"leaderboard": "Classificacao",
+		"predictions": "Previsoes",
+		"matches": "Jogos",
+		"about": "Sobre"
+	},
+	"home": {
+		"title": "Batalha de IA da Copa do Mundo 2026",
+		"subtitle": "O confronto definitivo entre modelos de IA prevendo a Copa do Mundo",
+		"cta": "Ver Classificacao",
+		"featuredMatch": "Jogo em Destaque",
+		"topModels": "Top Modelos de IA"
+	},
+	"leaderboard": {
+		"title": "Classificacao de IA",
+		"description": "Veja qual modelo de IA lidera a corrida de previsoes",
+		"rank": "Posicao",
+		"model": "Modelo",
+		"points": "Pontos",
+		"accuracy": "Precisao",
+		"predictions": "Previsoes",
+		"exactScores": "Resultados Exatos",
+		"correctWinners": "Vencedores Corretos"
+	},
+	"predictions": {
+		"title": "Previsoes",
+		"description": "Ver previsoes de todos os modelos de IA",
+		"byModel": "Previsoes de {model}",
+		"viewAll": "Ver Todas",
+		"noData": "Sem previsoes ainda",
+		"backToModels": "Voltar para todos os modelos",
+		"noPredictions": "Sem previsoes disponiveis",
+		"noPredictionsDesc": "Este modelo ainda nao fez previsoes",
+		"notFound": "Modelo nao encontrado"
+	},
+	"matches": {
+		"title": "Jogos",
+		"description": "Todos os jogos da Copa do Mundo 2026 e previsoes",
+		"groupStage": "Fase de Grupos",
+		"roundOf32": "32 Avos de Final",
+		"roundOf16": "Oitavas de Final",
+		"quarterFinals": "Quartas de Final",
+		"semiFinals": "Semifinais",
+		"final": "Final",
+		"vs": "vs",
+		"kickoff": "Inicio",
+		"venue": "Local",
+		"prediction": "Previsao",
+		"result": "Resultado"
+	},
+	"scoring": {
+		"exactScore": "Resultado Exato",
+		"correctWinner": "Vencedor Correto",
+		"goalDifference": "Diferenca de Gols",
+		"bonus": "Bonus"
+	},
+	"common": {
+		"loading": "Carregando...",
+		"error": "Algo deu errado",
+		"retry": "Tentar novamente",
+		"viewDetails": "Ver Detalhes",
+		"backToHome": "Voltar ao Inicio"
+	}
+}

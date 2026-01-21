@@ -1,0 +1,1154 @@
+[
+	{
+		"id": "A1",
+		"phase": "groups",
+		"group": "A",
+		"matchNumber": 1,
+		"homeTeam": "mex",
+		"awayTeam": "rsa",
+		"venue": {
+			"name": "Estadio Azteca",
+			"city": "Mexico City",
+			"country": "Mexico",
+			"capacity": 87523,
+			"coordinates": { "lat": 19.3028, "lng": -99.1505 }
+		},
+		"datetime": "2026-06-11T19:00:00Z"
+	},
+	{
+		"id": "A2",
+		"phase": "groups",
+		"group": "A",
+		"matchNumber": 2,
+		"homeTeam": "kor",
+		"awayTeam": "playoff-d",
+		"venue": {
+			"name": "Estadio Akron",
+			"city": "Guadalajara",
+			"country": "Mexico",
+			"capacity": 49850,
+			"coordinates": { "lat": 20.6832, "lng": -103.4616 }
+		},
+		"datetime": "2026-06-12T02:00:00Z"
+	},
+	{
+		"id": "B1",
+		"phase": "groups",
+		"group": "B",
+		"matchNumber": 3,
+		"homeTeam": "can",
+		"awayTeam": "playoff-a",
+		"venue": {
+			"name": "BMO Field",
+			"city": "Toronto",
+			"country": "Canada",
+			"capacity": 45000,
+			"coordinates": { "lat": 43.6332, "lng": -79.4186 }
+		},
+		"datetime": "2026-06-12T19:00:00Z"
+	},
+	{
+		"id": "D1",
+		"phase": "groups",
+		"group": "D",
+		"matchNumber": 4,
+		"homeTeam": "usa",
+		"awayTeam": "par",
+		"venue": {
+			"name": "SoFi Stadium",
+			"city": "Los Angeles",
+			"country": "USA",
+			"capacity": 70000,
+			"coordinates": { "lat": 33.9534, "lng": -118.3386 }
+		},
+		"datetime": "2026-06-13T01:00:00Z"
+	},
+	{
+		"id": "D2",
+		"phase": "groups",
+		"group": "D",
+		"matchNumber": 5,
+		"homeTeam": "aus",
+		"awayTeam": "playoff-c",
+		"venue": {
+			"name": "BC Place",
+			"city": "Vancouver",
+			"country": "Canada",
+			"capacity": 54500,
+			"coordinates": { "lat": 49.2768, "lng": -123.1119 }
+		},
+		"datetime": "2026-06-13T04:00:00Z"
+	},
+	{
+		"id": "C1",
+		"phase": "groups",
+		"group": "C",
+		"matchNumber": 6,
+		"homeTeam": "bra",
+		"awayTeam": "mar",
+		"venue": {
+			"name": "MetLife Stadium",
+			"city": "New York/New Jersey",
+			"country": "USA",
+			"capacity": 82500,
+			"coordinates": { "lat": 40.8135, "lng": -74.0745 }
+		},
+		"datetime": "2026-06-13T22:00:00Z"
+	},
+	{
+		"id": "C2",
+		"phase": "groups",
+		"group": "C",
+		"matchNumber": 7,
+		"homeTeam": "hai",
+		"awayTeam": "sco",
+		"venue": {
+			"name": "Gillette Stadium",
+			"city": "Boston",
+			"country": "USA",
+			"capacity": 65878,
+			"coordinates": { "lat": 42.0909, "lng": -71.2643 }
+		},
+		"datetime": "2026-06-14T01:00:00Z"
+	},
+	{
+		"id": "B2",
+		"phase": "groups",
+		"group": "B",
+		"matchNumber": 8,
+		"homeTeam": "qat",
+		"awayTeam": "sui",
+		"venue": {
+			"name": "Levi's Stadium",
+			"city": "San Francisco",
+			"country": "USA",
+			"capacity": 68500,
+			"coordinates": { "lat": 37.4033, "lng": -121.9695 }
+		},
+		"datetime": "2026-06-13T19:00:00Z"
+	},
+	{
+		"id": "E1",
+		"phase": "groups",
+		"group": "E",
+		"matchNumber": 9,
+		"homeTeam": "ger",
+		"awayTeam": "cuw",
+		"venue": {
+			"name": "NRG Stadium",
+			"city": "Houston",
+			"country": "USA",
+			"capacity": 72220,
+			"coordinates": { "lat": 29.6847, "lng": -95.4107 }
+		},
+		"datetime": "2026-06-14T17:00:00Z"
+	},
+	{
+		"id": "F1",
+		"phase": "groups",
+		"group": "F",
+		"matchNumber": 10,
+		"homeTeam": "ned",
+		"awayTeam": "jpn",
+		"venue": {
+			"name": "AT&T Stadium",
+			"city": "Dallas",
+			"country": "USA",
+			"capacity": 80000,
+			"coordinates": { "lat": 32.7473, "lng": -97.0945 }
+		},
+		"datetime": "2026-06-14T20:00:00Z"
+	},
+	{
+		"id": "E2",
+		"phase": "groups",
+		"group": "E",
+		"matchNumber": 11,
+		"homeTeam": "civ",
+		"awayTeam": "ecu",
+		"venue": {
+			"name": "Lincoln Financial Field",
+			"city": "Philadelphia",
+			"country": "USA",
+			"capacity": 69328,
+			"coordinates": { "lat": 39.9008, "lng": -75.1675 }
+		},
+		"datetime": "2026-06-14T23:00:00Z"
+	},
+	{
+		"id": "F2",
+		"phase": "groups",
+		"group": "F",
+		"matchNumber": 12,
+		"homeTeam": "playoff-b",
+		"awayTeam": "tun",
+		"venue": {
+			"name": "Estadio BBVA",
+			"city": "Monterrey",
+			"country": "Mexico",
+			"capacity": 53500,
+			"coordinates": { "lat": 25.6692, "lng": -100.2447 }
+		},
+		"datetime": "2026-06-15T02:00:00Z"
+	},
+	{
+		"id": "H1",
+		"phase": "groups",
+		"group": "H",
+		"matchNumber": 13,
+		"homeTeam": "esp",
+		"awayTeam": "cpv",
+		"venue": {
+			"name": "Mercedes-Benz Stadium",
+			"city": "Atlanta",
+			"country": "USA",
+			"capacity": 71000,
+			"coordinates": { "lat": 33.7554, "lng": -84.4008 }
+		},
+		"datetime": "2026-06-15T16:00:00Z"
+	},
+	{
+		"id": "G1",
+		"phase": "groups",
+		"group": "G",
+		"matchNumber": 14,
+		"homeTeam": "bel",
+		"awayTeam": "egy",
+		"venue": {
+			"name": "Lumen Field",
+			"city": "Seattle",
+			"country": "USA",
+			"capacity": 69000,
+			"coordinates": { "lat": 47.5952, "lng": -122.3316 }
+		},
+		"datetime": "2026-06-15T19:00:00Z"
+	},
+	{
+		"id": "H2",
+		"phase": "groups",
+		"group": "H",
+		"matchNumber": 15,
+		"homeTeam": "ksa",
+		"awayTeam": "uru",
+		"venue": {
+			"name": "Hard Rock Stadium",
+			"city": "Miami",
+			"country": "USA",
+			"capacity": 65326,
+			"coordinates": { "lat": 25.958, "lng": -80.2389 }
+		},
+		"datetime": "2026-06-15T22:00:00Z"
+	},
+	{
+		"id": "G2",
+		"phase": "groups",
+		"group": "G",
+		"matchNumber": 16,
+		"homeTeam": "irn",
+		"awayTeam": "nzl",
+		"venue": {
+			"name": "SoFi Stadium",
+			"city": "Los Angeles",
+			"country": "USA",
+			"capacity": 70000,
+			"coordinates": { "lat": 33.9534, "lng": -118.3386 }
+		},
+		"datetime": "2026-06-16T01:00:00Z"
+	},
+	{
+		"id": "I1",
+		"phase": "groups",
+		"group": "I",
+		"matchNumber": 17,
+		"homeTeam": "fra",
+		"awayTeam": "sen",
+		"venue": {
+			"name": "MetLife Stadium",
+			"city": "New York/New Jersey",
+			"country": "USA",
+			"capacity": 82500,
+			"coordinates": { "lat": 40.8135, "lng": -74.0745 }
+		},
+		"datetime": "2026-06-16T19:00:00Z"
+	},
+	{
+		"id": "I2",
+		"phase": "groups",
+		"group": "I",
+		"matchNumber": 18,
+		"homeTeam": "playoff-2",
+		"awayTeam": "nor",
+		"venue": {
+			"name": "Gillette Stadium",
+			"city": "Boston",
+			"country": "USA",
+			"capacity": 65878,
+			"coordinates": { "lat": 42.0909, "lng": -71.2643 }
+		},
+		"datetime": "2026-06-16T22:00:00Z"
+	},
+	{
+		"id": "J1",
+		"phase": "groups",
+		"group": "J",
+		"matchNumber": 19,
+		"homeTeam": "arg",
+		"awayTeam": "alg",
+		"venue": {
+			"name": "GEHA Field at Arrowhead Stadium",
+			"city": "Kansas City",
+			"country": "USA",
+			"capacity": 76416,
+			"coordinates": { "lat": 39.0489, "lng": -94.4839 }
+		},
+		"datetime": "2026-06-17T01:00:00Z"
+	},
+	{
+		"id": "J2",
+		"phase": "groups",
+		"group": "J",
+		"matchNumber": 20,
+		"homeTeam": "aut",
+		"awayTeam": "jor",
+		"venue": {
+			"name": "Levi's Stadium",
+			"city": "San Francisco",
+			"country": "USA",
+			"capacity": 68500,
+			"coordinates": { "lat": 37.4033, "lng": -121.9695 }
+		},
+		"datetime": "2026-06-17T04:00:00Z"
+	},
+	{
+		"id": "K1",
+		"phase": "groups",
+		"group": "K",
+		"matchNumber": 21,
+		"homeTeam": "por",
+		"awayTeam": "playoff-1",
+		"venue": {
+			"name": "NRG Stadium",
+			"city": "Houston",
+			"country": "USA",
+			"capacity": 72220,
+			"coordinates": { "lat": 29.6847, "lng": -95.4107 }
+		},
+		"datetime": "2026-06-17T17:00:00Z"
+	},
+	{
+		"id": "L1",
+		"phase": "groups",
+		"group": "L",
+		"matchNumber": 22,
+		"homeTeam": "eng",
+		"awayTeam": "cro",
+		"venue": {
+			"name": "AT&T Stadium",
+			"city": "Dallas",
+			"country": "USA",
+			"capacity": 80000,
+			"coordinates": { "lat": 32.7473, "lng": -97.0945 }
+		},
+		"datetime": "2026-06-17T20:00:00Z"
+	},
+	{
+		"id": "L2",
+		"phase": "groups",
+		"group": "L",
+		"matchNumber": 23,
+		"homeTeam": "gha",
+		"awayTeam": "pan",
+		"venue": {
+			"name": "BMO Field",
+			"city": "Toronto",
+			"country": "Canada",
+			"capacity": 45000,
+			"coordinates": { "lat": 43.6332, "lng": -79.4186 }
+		},
+		"datetime": "2026-06-17T23:00:00Z"
+	},
+	{
+		"id": "K2",
+		"phase": "groups",
+		"group": "K",
+		"matchNumber": 24,
+		"homeTeam": "uzb",
+		"awayTeam": "col",
+		"venue": {
+			"name": "Estadio Azteca",
+			"city": "Mexico City",
+			"country": "Mexico",
+			"capacity": 87523,
+			"coordinates": { "lat": 19.3028, "lng": -99.1505 }
+		},
+		"datetime": "2026-06-18T02:00:00Z"
+	},
+	{
+		"id": "A3",
+		"phase": "groups",
+		"group": "A",
+		"matchNumber": 25,
+		"homeTeam": "mex",
+		"awayTeam": "kor",
+		"venue": {
+			"name": "Estadio Azteca",
+			"city": "Mexico City",
+			"country": "Mexico",
+			"capacity": 87523,
+			"coordinates": { "lat": 19.3028, "lng": -99.1505 }
+		},
+		"datetime": "2026-06-18T19:00:00Z"
+	},
+	{
+		"id": "A4",
+		"phase": "groups",
+		"group": "A",
+		"matchNumber": 26,
+		"homeTeam": "rsa",
+		"awayTeam": "playoff-d",
+		"venue": {
+			"name": "Estadio Akron",
+			"city": "Guadalajara",
+			"country": "Mexico",
+			"capacity": 49850,
+			"coordinates": { "lat": 20.6832, "lng": -103.4616 }
+		},
+		"datetime": "2026-06-18T22:00:00Z"
+	},
+	{
+		"id": "B3",
+		"phase": "groups",
+		"group": "B",
+		"matchNumber": 27,
+		"homeTeam": "can",
+		"awayTeam": "qat",
+		"venue": {
+			"name": "BMO Field",
+			"city": "Toronto",
+			"country": "Canada",
+			"capacity": 45000,
+			"coordinates": { "lat": 43.6332, "lng": -79.4186 }
+		},
+		"datetime": "2026-06-19T01:00:00Z"
+	},
+	{
+		"id": "B4",
+		"phase": "groups",
+		"group": "B",
+		"matchNumber": 28,
+		"homeTeam": "playoff-a",
+		"awayTeam": "sui",
+		"venue": {
+			"name": "Levi's Stadium",
+			"city": "San Francisco",
+			"country": "USA",
+			"capacity": 68500,
+			"coordinates": { "lat": 37.4033, "lng": -121.9695 }
+		},
+		"datetime": "2026-06-19T04:00:00Z"
+	},
+	{
+		"id": "C3",
+		"phase": "groups",
+		"group": "C",
+		"matchNumber": 29,
+		"homeTeam": "bra",
+		"awayTeam": "hai",
+		"venue": {
+			"name": "MetLife Stadium",
+			"city": "New York/New Jersey",
+			"country": "USA",
+			"capacity": 82500,
+			"coordinates": { "lat": 40.8135, "lng": -74.0745 }
+		},
+		"datetime": "2026-06-19T17:00:00Z"
+	},
+	{
+		"id": "C4",
+		"phase": "groups",
+		"group": "C",
+		"matchNumber": 30,
+		"homeTeam": "mar",
+		"awayTeam": "sco",
+		"venue": {
+			"name": "Gillette Stadium",
+			"city": "Boston",
+			"country": "USA",
+			"capacity": 65878,
+			"coordinates": { "lat": 42.0909, "lng": -71.2643 }
+		},
+		"datetime": "2026-06-19T20:00:00Z"
+	},
+	{
+		"id": "D3",
+		"phase": "groups",
+		"group": "D",
+		"matchNumber": 31,
+		"homeTeam": "usa",
+		"awayTeam": "aus",
+		"venue": {
+			"name": "SoFi Stadium",
+			"city": "Los Angeles",
+			"country": "USA",
+			"capacity": 70000,
+			"coordinates": { "lat": 33.9534, "lng": -118.3386 }
+		},
+		"datetime": "2026-06-19T23:00:00Z"
+	},
+	{
+		"id": "D4",
+		"phase": "groups",
+		"group": "D",
+		"matchNumber": 32,
+		"homeTeam": "par",
+		"awayTeam": "playoff-c",
+		"venue": {
+			"name": "BC Place",
+			"city": "Vancouver",
+			"country": "Canada",
+			"capacity": 54500,
+			"coordinates": { "lat": 49.2768, "lng": -123.1119 }
+		},
+		"datetime": "2026-06-20T02:00:00Z"
+	},
+	{
+		"id": "E3",
+		"phase": "groups",
+		"group": "E",
+		"matchNumber": 33,
+		"homeTeam": "ger",
+		"awayTeam": "civ",
+		"venue": {
+			"name": "NRG Stadium",
+			"city": "Houston",
+			"country": "USA",
+			"capacity": 72220,
+			"coordinates": { "lat": 29.6847, "lng": -95.4107 }
+		},
+		"datetime": "2026-06-20T17:00:00Z"
+	},
+	{
+		"id": "E4",
+		"phase": "groups",
+		"group": "E",
+		"matchNumber": 34,
+		"homeTeam": "cuw",
+		"awayTeam": "ecu",
+		"venue": {
+			"name": "Lincoln Financial Field",
+			"city": "Philadelphia",
+			"country": "USA",
+			"capacity": 69328,
+			"coordinates": { "lat": 39.9008, "lng": -75.1675 }
+		},
+		"datetime": "2026-06-20T20:00:00Z"
+	},
+	{
+		"id": "F3",
+		"phase": "groups",
+		"group": "F",
+		"matchNumber": 35,
+		"homeTeam": "ned",
+		"awayTeam": "playoff-b",
+		"venue": {
+			"name": "AT&T Stadium",
+			"city": "Dallas",
+			"country": "USA",
+			"capacity": 80000,
+			"coordinates": { "lat": 32.7473, "lng": -97.0945 }
+		},
+		"datetime": "2026-06-20T23:00:00Z"
+	},
+	{
+		"id": "F4",
+		"phase": "groups",
+		"group": "F",
+		"matchNumber": 36,
+		"homeTeam": "jpn",
+		"awayTeam": "tun",
+		"venue": {
+			"name": "Estadio BBVA",
+			"city": "Monterrey",
+			"country": "Mexico",
+			"capacity": 53500,
+			"coordinates": { "lat": 25.6692, "lng": -100.2447 }
+		},
+		"datetime": "2026-06-21T02:00:00Z"
+	},
+	{
+		"id": "G3",
+		"phase": "groups",
+		"group": "G",
+		"matchNumber": 37,
+		"homeTeam": "bel",
+		"awayTeam": "irn",
+		"venue": {
+			"name": "Lumen Field",
+			"city": "Seattle",
+			"country": "USA",
+			"capacity": 69000,
+			"coordinates": { "lat": 47.5952, "lng": -122.3316 }
+		},
+		"datetime": "2026-06-21T17:00:00Z"
+	},
+	{
+		"id": "G4",
+		"phase": "groups",
+		"group": "G",
+		"matchNumber": 38,
+		"homeTeam": "egy",
+		"awayTeam": "nzl",
+		"venue": {
+			"name": "SoFi Stadium",
+			"city": "Los Angeles",
+			"country": "USA",
+			"capacity": 70000,
+			"coordinates": { "lat": 33.9534, "lng": -118.3386 }
+		},
+		"datetime": "2026-06-21T20:00:00Z"
+	},
+	{
+		"id": "H3",
+		"phase": "groups",
+		"group": "H",
+		"matchNumber": 39,
+		"homeTeam": "esp",
+		"awayTeam": "ksa",
+		"venue": {
+			"name": "Mercedes-Benz Stadium",
+			"city": "Atlanta",
+			"country": "USA",
+			"capacity": 71000,
+			"coordinates": { "lat": 33.7554, "lng": -84.4008 }
+		},
+		"datetime": "2026-06-21T23:00:00Z"
+	},
+	{
+		"id": "H4",
+		"phase": "groups",
+		"group": "H",
+		"matchNumber": 40,
+		"homeTeam": "cpv",
+		"awayTeam": "uru",
+		"venue": {
+			"name": "Hard Rock Stadium",
+			"city": "Miami",
+			"country": "USA",
+			"capacity": 65326,
+			"coordinates": { "lat": 25.958, "lng": -80.2389 }
+		},
+		"datetime": "2026-06-22T02:00:00Z"
+	},
+	{
+		"id": "I3",
+		"phase": "groups",
+		"group": "I",
+		"matchNumber": 41,
+		"homeTeam": "fra",
+		"awayTeam": "playoff-2",
+		"venue": {
+			"name": "MetLife Stadium",
+			"city": "New York/New Jersey",
+			"country": "USA",
+			"capacity": 82500,
+			"coordinates": { "lat": 40.8135, "lng": -74.0745 }
+		},
+		"datetime": "2026-06-22T17:00:00Z"
+	},
+	{
+		"id": "I4",
+		"phase": "groups",
+		"group": "I",
+		"matchNumber": 42,
+		"homeTeam": "sen",
+		"awayTeam": "nor",
+		"venue": {
+			"name": "Gillette Stadium",
+			"city": "Boston",
+			"country": "USA",
+			"capacity": 65878,
+			"coordinates": { "lat": 42.0909, "lng": -71.2643 }
+		},
+		"datetime": "2026-06-22T20:00:00Z"
+	},
+	{
+		"id": "J3",
+		"phase": "groups",
+		"group": "J",
+		"matchNumber": 43,
+		"homeTeam": "arg",
+		"awayTeam": "aut",
+		"venue": {
+			"name": "GEHA Field at Arrowhead Stadium",
+			"city": "Kansas City",
+			"country": "USA",
+			"capacity": 76416,
+			"coordinates": { "lat": 39.0489, "lng": -94.4839 }
+		},
+		"datetime": "2026-06-22T23:00:00Z"
+	},
+	{
+		"id": "J4",
+		"phase": "groups",
+		"group": "J",
+		"matchNumber": 44,
+		"homeTeam": "alg",
+		"awayTeam": "jor",
+		"venue": {
+			"name": "Levi's Stadium",
+			"city": "San Francisco",
+			"country": "USA",
+			"capacity": 68500,
+			"coordinates": { "lat": 37.4033, "lng": -121.9695 }
+		},
+		"datetime": "2026-06-23T02:00:00Z"
+	},
+	{
+		"id": "K3",
+		"phase": "groups",
+		"group": "K",
+		"matchNumber": 45,
+		"homeTeam": "por",
+		"awayTeam": "uzb",
+		"venue": {
+			"name": "NRG Stadium",
+			"city": "Houston",
+			"country": "USA",
+			"capacity": 72220,
+			"coordinates": { "lat": 29.6847, "lng": -95.4107 }
+		},
+		"datetime": "2026-06-23T17:00:00Z"
+	},
+	{
+		"id": "K4",
+		"phase": "groups",
+		"group": "K",
+		"matchNumber": 46,
+		"homeTeam": "playoff-1",
+		"awayTeam": "col",
+		"venue": {
+			"name": "Estadio Azteca",
+			"city": "Mexico City",
+			"country": "Mexico",
+			"capacity": 87523,
+			"coordinates": { "lat": 19.3028, "lng": -99.1505 }
+		},
+		"datetime": "2026-06-23T20:00:00Z"
+	},
+	{
+		"id": "L3",
+		"phase": "groups",
+		"group": "L",
+		"matchNumber": 47,
+		"homeTeam": "eng",
+		"awayTeam": "gha",
+		"venue": {
+			"name": "AT&T Stadium",
+			"city": "Dallas",
+			"country": "USA",
+			"capacity": 80000,
+			"coordinates": { "lat": 32.7473, "lng": -97.0945 }
+		},
+		"datetime": "2026-06-23T23:00:00Z"
+	},
+	{
+		"id": "L4",
+		"phase": "groups",
+		"group": "L",
+		"matchNumber": 48,
+		"homeTeam": "cro",
+		"awayTeam": "pan",
+		"venue": {
+			"name": "BMO Field",
+			"city": "Toronto",
+			"country": "Canada",
+			"capacity": 45000,
+			"coordinates": { "lat": 43.6332, "lng": -79.4186 }
+		},
+		"datetime": "2026-06-24T02:00:00Z"
+	},
+	{
+		"id": "A5",
+		"phase": "groups",
+		"group": "A",
+		"matchNumber": 49,
+		"homeTeam": "mex",
+		"awayTeam": "playoff-d",
+		"venue": {
+			"name": "Estadio Azteca",
+			"city": "Mexico City",
+			"country": "Mexico",
+			"capacity": 87523,
+			"coordinates": { "lat": 19.3028, "lng": -99.1505 }
+		},
+		"datetime": "2026-06-24T19:00:00Z"
+	},
+	{
+		"id": "A6",
+		"phase": "groups",
+		"group": "A",
+		"matchNumber": 50,
+		"homeTeam": "rsa",
+		"awayTeam": "kor",
+		"venue": {
+			"name": "Estadio Akron",
+			"city": "Guadalajara",
+			"country": "Mexico",
+			"capacity": 49850,
+			"coordinates": { "lat": 20.6832, "lng": -103.4616 }
+		},
+		"datetime": "2026-06-24T19:00:00Z"
+	},
+	{
+		"id": "B5",
+		"phase": "groups",
+		"group": "B",
+		"matchNumber": 51,
+		"homeTeam": "can",
+		"awayTeam": "sui",
+		"venue": {
+			"name": "BMO Field",
+			"city": "Toronto",
+			"country": "Canada",
+			"capacity": 45000,
+			"coordinates": { "lat": 43.6332, "lng": -79.4186 }
+		},
+		"datetime": "2026-06-24T23:00:00Z"
+	},
+	{
+		"id": "B6",
+		"phase": "groups",
+		"group": "B",
+		"matchNumber": 52,
+		"homeTeam": "playoff-a",
+		"awayTeam": "qat",
+		"venue": {
+			"name": "Levi's Stadium",
+			"city": "San Francisco",
+			"country": "USA",
+			"capacity": 68500,
+			"coordinates": { "lat": 37.4033, "lng": -121.9695 }
+		},
+		"datetime": "2026-06-24T23:00:00Z"
+	},
+	{
+		"id": "C5",
+		"phase": "groups",
+		"group": "C",
+		"matchNumber": 53,
+		"homeTeam": "bra",
+		"awayTeam": "sco",
+		"venue": {
+			"name": "MetLife Stadium",
+			"city": "New York/New Jersey",
+			"country": "USA",
+			"capacity": 82500,
+			"coordinates": { "lat": 40.8135, "lng": -74.0745 }
+		},
+		"datetime": "2026-06-25T02:00:00Z"
+	},
+	{
+		"id": "C6",
+		"phase": "groups",
+		"group": "C",
+		"matchNumber": 54,
+		"homeTeam": "mar",
+		"awayTeam": "hai",
+		"venue": {
+			"name": "Gillette Stadium",
+			"city": "Boston",
+			"country": "USA",
+			"capacity": 65878,
+			"coordinates": { "lat": 42.0909, "lng": -71.2643 }
+		},
+		"datetime": "2026-06-25T02:00:00Z"
+	},
+	{
+		"id": "D5",
+		"phase": "groups",
+		"group": "D",
+		"matchNumber": 55,
+		"homeTeam": "usa",
+		"awayTeam": "playoff-c",
+		"venue": {
+			"name": "SoFi Stadium",
+			"city": "Los Angeles",
+			"country": "USA",
+			"capacity": 70000,
+			"coordinates": { "lat": 33.9534, "lng": -118.3386 }
+		},
+		"datetime": "2026-06-25T19:00:00Z"
+	},
+	{
+		"id": "D6",
+		"phase": "groups",
+		"group": "D",
+		"matchNumber": 56,
+		"homeTeam": "par",
+		"awayTeam": "aus",
+		"venue": {
+			"name": "BC Place",
+			"city": "Vancouver",
+			"country": "Canada",
+			"capacity": 54500,
+			"coordinates": { "lat": 49.2768, "lng": -123.1119 }
+		},
+		"datetime": "2026-06-25T19:00:00Z"
+	},
+	{
+		"id": "E5",
+		"phase": "groups",
+		"group": "E",
+		"matchNumber": 57,
+		"homeTeam": "ger",
+		"awayTeam": "ecu",
+		"venue": {
+			"name": "NRG Stadium",
+			"city": "Houston",
+			"country": "USA",
+			"capacity": 72220,
+			"coordinates": { "lat": 29.6847, "lng": -95.4107 }
+		},
+		"datetime": "2026-06-25T23:00:00Z"
+	},
+	{
+		"id": "E6",
+		"phase": "groups",
+		"group": "E",
+		"matchNumber": 58,
+		"homeTeam": "civ",
+		"awayTeam": "cuw",
+		"venue": {
+			"name": "Lincoln Financial Field",
+			"city": "Philadelphia",
+			"country": "USA",
+			"capacity": 69328,
+			"coordinates": { "lat": 39.9008, "lng": -75.1675 }
+		},
+		"datetime": "2026-06-25T23:00:00Z"
+	},
+	{
+		"id": "F5",
+		"phase": "groups",
+		"group": "F",
+		"matchNumber": 59,
+		"homeTeam": "ned",
+		"awayTeam": "tun",
+		"venue": {
+			"name": "AT&T Stadium",
+			"city": "Dallas",
+			"country": "USA",
+			"capacity": 80000,
+			"coordinates": { "lat": 32.7473, "lng": -97.0945 }
+		},
+		"datetime": "2026-06-26T02:00:00Z"
+	},
+	{
+		"id": "F6",
+		"phase": "groups",
+		"group": "F",
+		"matchNumber": 60,
+		"homeTeam": "jpn",
+		"awayTeam": "playoff-b",
+		"venue": {
+			"name": "Estadio BBVA",
+			"city": "Monterrey",
+			"country": "Mexico",
+			"capacity": 53500,
+			"coordinates": { "lat": 25.6692, "lng": -100.2447 }
+		},
+		"datetime": "2026-06-26T02:00:00Z"
+	},
+	{
+		"id": "G5",
+		"phase": "groups",
+		"group": "G",
+		"matchNumber": 61,
+		"homeTeam": "bel",
+		"awayTeam": "nzl",
+		"venue": {
+			"name": "Lumen Field",
+			"city": "Seattle",
+			"country": "USA",
+			"capacity": 69000,
+			"coordinates": { "lat": 47.5952, "lng": -122.3316 }
+		},
+		"datetime": "2026-06-26T19:00:00Z"
+	},
+	{
+		"id": "G6",
+		"phase": "groups",
+		"group": "G",
+		"matchNumber": 62,
+		"homeTeam": "egy",
+		"awayTeam": "irn",
+		"venue": {
+			"name": "SoFi Stadium",
+			"city": "Los Angeles",
+			"country": "USA",
+			"capacity": 70000,
+			"coordinates": { "lat": 33.9534, "lng": -118.3386 }
+		},
+		"datetime": "2026-06-26T19:00:00Z"
+	},
+	{
+		"id": "H5",
+		"phase": "groups",
+		"group": "H",
+		"matchNumber": 63,
+		"homeTeam": "esp",
+		"awayTeam": "uru",
+		"venue": {
+			"name": "Mercedes-Benz Stadium",
+			"city": "Atlanta",
+			"country": "USA",
+			"capacity": 71000,
+			"coordinates": { "lat": 33.7554, "lng": -84.4008 }
+		},
+		"datetime": "2026-06-26T23:00:00Z"
+	},
+	{
+		"id": "H6",
+		"phase": "groups",
+		"group": "H",
+		"matchNumber": 64,
+		"homeTeam": "cpv",
+		"awayTeam": "ksa",
+		"venue": {
+			"name": "Hard Rock Stadium",
+			"city": "Miami",
+			"country": "USA",
+			"capacity": 65326,
+			"coordinates": { "lat": 25.958, "lng": -80.2389 }
+		},
+		"datetime": "2026-06-26T23:00:00Z"
+	},
+	{
+		"id": "I5",
+		"phase": "groups",
+		"group": "I",
+		"matchNumber": 65,
+		"homeTeam": "fra",
+		"awayTeam": "nor",
+		"venue": {
+			"name": "MetLife Stadium",
+			"city": "New York/New Jersey",
+			"country": "USA",
+			"capacity": 82500,
+			"coordinates": { "lat": 40.8135, "lng": -74.0745 }
+		},
+		"datetime": "2026-06-27T02:00:00Z"
+	},
+	{
+		"id": "I6",
+		"phase": "groups",
+		"group": "I",
+		"matchNumber": 66,
+		"homeTeam": "sen",
+		"awayTeam": "playoff-2",
+		"venue": {
+			"name": "Gillette Stadium",
+			"city": "Boston",
+			"country": "USA",
+			"capacity": 65878,
+			"coordinates": { "lat": 42.0909, "lng": -71.2643 }
+		},
+		"datetime": "2026-06-27T02:00:00Z"
+	},
+	{
+		"id": "J5",
+		"phase": "groups",
+		"group": "J",
+		"matchNumber": 67,
+		"homeTeam": "arg",
+		"awayTeam": "jor",
+		"venue": {
+			"name": "GEHA Field at Arrowhead Stadium",
+			"city": "Kansas City",
+			"country": "USA",
+			"capacity": 76416,
+			"coordinates": { "lat": 39.0489, "lng": -94.4839 }
+		},
+		"datetime": "2026-06-27T19:00:00Z"
+	},
+	{
+		"id": "J6",
+		"phase": "groups",
+		"group": "J",
+		"matchNumber": 68,
+		"homeTeam": "alg",
+		"awayTeam": "aut",
+		"venue": {
+			"name": "Levi's Stadium",
+			"city": "San Francisco",
+			"country": "USA",
+			"capacity": 68500,
+			"coordinates": { "lat": 37.4033, "lng": -121.9695 }
+		},
+		"datetime": "2026-06-27T19:00:00Z"
+	},
+	{
+		"id": "K5",
+		"phase": "groups",
+		"group": "K",
+		"matchNumber": 69,
+		"homeTeam": "por",
+		"awayTeam": "col",
+		"venue": {
+			"name": "NRG Stadium",
+			"city": "Houston",
+			"country": "USA",
+			"capacity": 72220,
+			"coordinates": { "lat": 29.6847, "lng": -95.4107 }
+		},
+		"datetime": "2026-06-27T23:00:00Z"
+	},
+	{
+		"id": "K6",
+		"phase": "groups",
+		"group": "K",
+		"matchNumber": 70,
+		"homeTeam": "playoff-1",
+		"awayTeam": "uzb",
+		"venue": {
+			"name": "Estadio Azteca",
+			"city": "Mexico City",
+			"country": "Mexico",
+			"capacity": 87523,
+			"coordinates": { "lat": 19.3028, "lng": -99.1505 }
+		},
+		"datetime": "2026-06-27T23:00:00Z"
+	},
+	{
+		"id": "L5",
+		"phase": "groups",
+		"group": "L",
+		"matchNumber": 71,
+		"homeTeam": "eng",
+		"awayTeam": "pan",
+		"venue": {
+			"name": "AT&T Stadium",
+			"city": "Dallas",
+			"country": "USA",
+			"capacity": 80000,
+			"coordinates": { "lat": 32.7473, "lng": -97.0945 }
+		},
+		"datetime": "2026-06-28T02:00:00Z"
+	},
+	{
+		"id": "L6",
+		"phase": "groups",
+		"group": "L",
+		"matchNumber": 72,
+		"homeTeam": "cro",
+		"awayTeam": "gha",
+		"venue": {
+			"name": "BMO Field",
+			"city": "Toronto",
+			"country": "Canada",
+			"capacity": 45000,
+			"coordinates": { "lat": 43.6332, "lng": -79.4186 }
+		},
+		"datetime": "2026-06-28T02:00:00Z"
+	}
+]
