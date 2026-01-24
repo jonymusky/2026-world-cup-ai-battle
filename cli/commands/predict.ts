@@ -19,12 +19,14 @@ const PredictionSchema = z.object({
 	reasoning: z.string().describe('Brief explanation of the prediction'),
 });
 
-const _TournamentPredictionSchema = z.object({
+export const TournamentPredictionSchema = z.object({
 	champion: z.string().describe('Team code of predicted champion'),
 	finalist: z.string().describe('Team code of predicted runner-up'),
 	groupWinners: z.record(z.string(), z.string()).describe('Group letter to team code mapping'),
 	reasoning: z.string().describe('Brief explanation of predictions'),
 });
+
+type TournamentPredictionResult = z.infer<typeof TournamentPredictionSchema>;
 
 type PredictionResult = z.infer<typeof PredictionSchema>;
 
@@ -46,6 +48,7 @@ interface Team {
 	ranking: number;
 	confederation: string;
 	group: string;
+	isPlayoff?: boolean;
 }
 
 interface LLMModel {
@@ -293,4 +296,123 @@ export async function predictCommand(options: PredictOptions) {
 	}
 
 	console.log('\n✅ Prediction run complete!\n');
+}
+
+function createTournamentPredictionPrompt(teams: Team[]): string {
+	const teamList = teams
+		.map((t) => `${t.name} (${t.code}) - FIFA Ranking: ${t.ranking}, Group: ${t.group}`)
+		.join('\n');
+
+	return `You are a football (soccer) expert analyst. Predict the overall tournament results for FIFA World Cup 2026.
+
+Participating Teams:
+${teamList}
+
+Based on historical performance, current form, FIFA rankings, and team strengths, predict:
+1. The tournament champion
+2. The runner-up (finalist)
+3. The winner of each group (A through L)
+
+Important: Use the exact team codes provided (e.g., "ARG", "BRA", "GER").`;
+}
+
+async function predictTournament(
+	model: Awaited<ReturnType<typeof getModel>>,
+	teams: Team[]
+): Promise<TournamentPredictionResult> {
+	const prompt = createTournamentPredictionPrompt(teams);
+
+	const { object } = await generateObject({
+		model,
+		schema: TournamentPredictionSchema,
+		prompt,
+		temperature: 0.7,
+	});
+
+	return object;
+}
+
+interface TournamentPredictOptions {
+	model?: string;
+	dryRun?: boolean;
+	useGateway?: boolean;
+}
+
+export async function predictTournamentCommand(options: TournamentPredictOptions) {
+	const useGateway = options.useGateway ?? !!process.env.AI_GATEWAY_API_KEY;
+
+	console.log('\n🏆 2026 World Cup AI Battle - Tournament Prediction Runner\n');
+	console.log(`Model: ${options.model || 'All models'}`);
+	console.log(`Mode: ${useGateway ? '🌐 AI Gateway' : '🔌 Direct Provider'}`);
+	console.log(`Dry Run: ${options.dryRun ? 'Yes' : 'No'}\n`);
+
+	// Load data
+	const models = loadJSON<LLMModel[]>('data/models.json');
+	const teams = loadJSON<Team[]>('data/teams.json');
+
+	// Filter out TBD/playoff teams for tournament predictions
+	const actualTeams = teams.filter((t) => !t.isPlayoff && t.code !== 'TBD');
+	console.log(`Found ${actualTeams.length} qualified teams\n`);
+
+	if (options.dryRun) {
+		console.log('📋 Dry run mode - no API calls will be made\n');
+		console.log('Models to run:');
+		const modelsToRun = options.model ? models.filter((m) => m.id === options.model) : models;
+		for (const m of modelsToRun) {
+			const gatewayId = GATEWAY_MODEL_MAP[m.id] || 'N/A';
+			console.log(`  - ${m.name} (${useGateway ? gatewayId : m.provider})`);
+		}
+		console.log('\n📦 Using Zod schemas for structured output (AI SDK v6 generateObject)');
+		console.log('\n🎯 Will predict: Champion, Finalist, Group Winners (A-L)');
+		return;
+	}
+
+	const modelsToRun = options.model ? models.filter((m) => m.id === options.model) : models;
+
+	for (const modelConfig of modelsToRun) {
+		console.log(`\n🤖 Running tournament prediction for ${modelConfig.name}...`);
+		console.log(`   Using: ${useGateway ? GATEWAY_MODEL_MAP[modelConfig.id] : modelConfig.provider}`);
+
+		try {
+			const model = await getModel(modelConfig.id, useGateway);
+			process.stdout.write('  Predicting tournament outcome...');
+
+			const result = await predictTournament(model, actualTeams);
+			console.log(' ✓');
+			console.log(`    Champion: ${result.champion}`);
+			console.log(`    Finalist: ${result.finalist}`);
+
+			// Save predictions
+			const existingPredictions = loadJSON<{
+				modelId: string;
+				predictions: Array<unknown>;
+				tournamentPredictions: Record<string, unknown>;
+				generatedAt: string | null;
+			}>(`data/predictions/${modelConfig.id}.json`);
+
+			existingPredictions.tournamentPredictions = {
+				champion: result.champion,
+				finalist: result.finalist,
+				groupWinners: result.groupWinners,
+				reasoning: result.reasoning,
+			};
+			existingPredictions.generatedAt = new Date().toISOString();
+
+			saveJSON(`data/predictions/${modelConfig.id}.json`, existingPredictions);
+			console.log('  ✓ Saved tournament predictions');
+		} catch (error) {
+			console.log(' ✗ (error)');
+			console.error(`  ✗ Failed: ${error instanceof Error ? error.message : 'Unknown error'}`);
+			if (useGateway) {
+				console.error('    Make sure AI_GATEWAY_API_KEY is set in .env.local');
+			} else {
+				console.error('    Make sure the correct API key is set in .env.local');
+			}
+		}
+
+		// Rate limiting delay between models
+		await new Promise((resolve) => setTimeout(resolve, 1000));
+	}
+
+	console.log('\n✅ Tournament prediction run complete!\n');
 }
