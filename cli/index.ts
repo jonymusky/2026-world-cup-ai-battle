@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import { config } from 'dotenv';
 import { program } from 'commander';
-import { predictCommand } from './commands/predict';
+import { predictCommand, predictTournamentCommand } from './commands/predict';
 import { scoreCommand } from './commands/score';
 
 // Load environment variables from .env.local
@@ -14,9 +14,10 @@ program
 
 program
 	.command('predict')
-	.description('Run AI predictions for matches')
+	.description('Run AI predictions for matches or tournament')
 	.option('-p, --phase <phase>', 'Match phase (groups, round-of-16, etc.)', 'groups')
 	.option('-m, --model <model>', 'Specific model to run')
+	.option('-t, --tournament', 'Predict tournament champion and finalist')
 	.option('--dry-run', 'Preview without making actual API calls')
 	.option('--gateway', 'Use Vercel AI Gateway instead of direct provider calls')
 	.option('--direct', 'Use direct provider calls (default if no AI_GATEWAY_API_KEY)')
@@ -27,7 +28,10 @@ program
 		} else if (options.direct) {
 			options.useGateway = false;
 		}
-		// If neither flag, predictCommand will check AI_GATEWAY_API_KEY
+		// If neither flag, commands will check AI_GATEWAY_API_KEY
+		if (options.tournament) {
+			return predictTournamentCommand(options);
+		}
 		return predictCommand(options);
 	});
 

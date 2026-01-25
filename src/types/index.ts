@@ -76,9 +76,10 @@ export interface ModelPredictions {
 	modelId: string;
 	predictions: Prediction[];
 	tournamentPredictions: {
-		champion?: string; // Team ID
-		finalist?: string; // Team ID (runner-up)
-		groupWinners?: Record<string, string>; // Group letter -> Team ID
+		champion?: string; // Team code
+		finalist?: string; // Team code (runner-up)
+		groupWinners?: Record<string, string>; // Group letter -> Team code
+		reasoning?: string; // Brief explanation of predictions
 	};
 	generatedAt?: string; // ISO 8601
 }

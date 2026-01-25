@@ -58,6 +58,10 @@ export function getTeamById(id: string): Team | undefined {
 	return getTeams().find((team) => team.id === id);
 }
 
+export function getTeamByCode(code: string): Team | undefined {
+	return getTeams().find((team) => team.code === code);
+}
+
 export function getTeamsByGroup(group: string): Team[] {
 	return getTeams().filter((team) => team.group === group);
 }
@@ -114,3 +118,34 @@ export const getMatchesByTeam = cache(async (teamId: string): Promise<Match[]> =
 export const getAllPredictions = cache(async (): Promise<Record<string, ModelPredictions>> => {
 	return PREDICTIONS_DATA;
 });
+
+export interface TournamentPrediction {
+	modelId: string;
+	champion?: string;
+	finalist?: string;
+	groupWinners?: Record<string, string>;
+	reasoning?: string;
+}
+
+export function getTournamentPredictions(): TournamentPrediction[] {
+	const models = getModels();
+	const predictions: TournamentPrediction[] = [];
+
+	for (const model of models) {
+		const modelPredictions = PREDICTIONS_DATA[model.id];
+		if (modelPredictions?.tournamentPredictions) {
+			const tp = modelPredictions.tournamentPredictions;
+			if (tp.champion || tp.finalist) {
+				predictions.push({
+					modelId: model.id,
+					champion: tp.champion,
+					finalist: tp.finalist,
+					groupWinners: tp.groupWinners,
+					reasoning: tp.reasoning,
+				});
+			}
+		}
+	}
+
+	return predictions;
+}

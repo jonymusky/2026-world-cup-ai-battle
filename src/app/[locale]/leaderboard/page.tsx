@@ -1,6 +1,7 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import Link from 'next/link';
-import { getModelsWithPredictions, getRankings } from '@/lib/data/loader';
+import { getModelsWithPredictions, getRankings, getTournamentPredictions, getTeamByCode } from '@/lib/data/loader';
+import { Flag } from '@/components/ui/flag';
 import { createModelLookup, getMedalEmoji } from '@/lib/utils/leaderboard';
 
 interface Props {
@@ -41,6 +42,7 @@ export default async function LeaderboardPage({ params }: Props): Promise<React.
 		.filter((r) => modelIds.has(r.modelId))
 		.toSorted((a, b) => b.totalPoints - a.totalPoints);
 	const getModelInfo = createModelLookup(models);
+	const tournamentPredictions = getTournamentPredictions();
 
 	return (
 		<div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
@@ -255,6 +257,107 @@ export default async function LeaderboardPage({ params }: Props): Promise<React.
 					</div>
 				</div>
 			</div>
+
+			{/* Tournament Predictions */}
+			{tournamentPredictions.length > 0 && (
+				<div className="mt-12">
+					<h2 className="mb-6 text-2xl font-bold">Tournament Predictions</h2>
+					<p className="mb-4 text-foreground/60">
+						Who does each AI model predict will win the World Cup?
+					</p>
+					<div className="overflow-hidden rounded-2xl border border-card-border bg-card-bg">
+						<div className="overflow-x-auto">
+							<table className="w-full">
+								<thead>
+									<tr className="border-b border-card-border bg-background/50">
+										<th className="px-6 py-4 text-left text-sm font-semibold text-foreground/70">
+											Model
+										</th>
+										<th className="px-6 py-4 text-left text-sm font-semibold text-foreground/70">
+											Predicted Champion
+										</th>
+										<th className="px-6 py-4 text-left text-sm font-semibold text-foreground/70">
+											Predicted Finalist
+										</th>
+									</tr>
+								</thead>
+								<tbody>
+									{rankings.map((ranking) => {
+										const model = getModelInfo(ranking.modelId);
+										const prediction = tournamentPredictions.find(
+											(p) => p.modelId === ranking.modelId
+										);
+										const championTeam = prediction?.champion
+											? getTeamByCode(prediction.champion)
+											: null;
+										const finalistTeam = prediction?.finalist
+											? getTeamByCode(prediction.finalist)
+											: null;
+
+										if (!prediction) return null;
+
+										return (
+											<tr
+												key={ranking.modelId}
+												className="border-b border-card-border last:border-0"
+											>
+												<td className="px-6 py-4">
+													<div className="flex items-center gap-3">
+														<div
+															className="h-3 w-3 rounded-full"
+															style={{ backgroundColor: model?.color || '#888' }}
+														/>
+														<div>
+															<div className="font-semibold">
+																{model?.name || ranking.modelId}
+															</div>
+															<div className="text-sm text-foreground/50">
+																{model?.provider}
+															</div>
+														</div>
+													</div>
+												</td>
+												<td className="px-6 py-4">
+													{championTeam ? (
+														<div className="flex items-center gap-2">
+															<Flag
+																code={championTeam.code}
+																name={championTeam.name}
+																size="sm"
+															/>
+															<span className="font-medium">
+																{championTeam.name}
+															</span>
+														</div>
+													) : (
+														<span className="text-foreground/40">-</span>
+													)}
+												</td>
+												<td className="px-6 py-4">
+													{finalistTeam ? (
+														<div className="flex items-center gap-2">
+															<Flag
+																code={finalistTeam.code}
+																name={finalistTeam.name}
+																size="sm"
+															/>
+															<span className="font-medium">
+																{finalistTeam.name}
+															</span>
+														</div>
+													) : (
+														<span className="text-foreground/40">-</span>
+													)}
+												</td>
+											</tr>
+										);
+									})}
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+			)}
 		</div>
 	);
 }
